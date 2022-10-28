@@ -1,0 +1,120 @@
+Sandstone+Sandstone		Bonus: 2	Beast: 1
+Sandstone+Clay			Bonus: 3	Beast: 1
+Sandstone+Quartz			Bonus: 3
+Sandstone+Granite			Bonus: 3
+Sandstone+Obsidian		Bonus: 3	Goblin: 2
+Sandstone+Moonstone		Bonus: 3	Human: 2
+Sandstone+Straw			Bonus: 1
+Sandstone+Cane			Bonus: 2
+Sandstone+Wicker			Bonus: 2
+Sandstone+Nimblewood		Bonus: 3
+		 
+Clay+Sandstone			Bonus: 3	Beast: 1
+Clay+Clay				Bonus: 3	Beast: 1
+Clay+Quartz				Bonus: 3
+Clay+Granite				Bonus: 3
+Clay+Obsidian			Bonus: 3	Goblin: 2
+Clay+Moonstone			Bonus: 4	Human: 2
+Clay+Straw				Bonus: 2
+Clay+Cane				Bonus: 3
+Clay+Wicker				Bonus: 3
+Clay+Nimblewood			Bonus: 4
+			
+Quartz+Sandstone			Bonus: 3
+Quartz+Clay				Bonus: 3
+Quartz+Quartz			Bonus: 3
+Quartz+Granite			Bonus: 3
+Quartz+Obsidian			Bonus: 3	Goblin: 2
+Quartz+Moonstone			Bonus: 4	Human: 2
+Quartz+Straw			Bonus: 2
+Quartz+Cane				Bonus: 3
+Quartz+Wicker			Bonus: 3
+Quartz+Nimblewood			Bonus: 4
+		
+Granite+Sandstone			Bonus: 3
+Granite+Clay				Bonus: 3
+Granite+Quartz			Bonus: 3
+Granite+Granite			Bonus: 4
+Granite+Obsidian			Bonus: 3	Goblin: 2
+Granite+Moonstone			Bonus: 5	Human: 2
+Granite+Straw			Bonus: 3
+Granite+Cane			Bonus: 3
+Granite+Wicker			Bonus: 3
+Granite+Nimblewood		Bonus: 4
+			
+Obsidian+Sandstone		Bonus: 3	Goblin: 2	
+Obsidian+Clay			Bonus: 3	Goblin: 2		
+Obsidian+Quartz			Bonus: 3	Goblin: 2
+Obsidian+Granite			Bonus: 3	Goblin: 2
+Obsidian+Obsidian			Bonus: 3	Goblin: 4
+Obsidian+Moonstone		Bonus: 4	Goblin: 2	Human: 2
+Obsidian+Straw			Bonus: 2	Goblin: 2
+Obsidian+Cane			Bonus: 3	Goblin: 2
+Obsidian+Wicker			Bonus: 3	Goblin: 2
+Obsidian+Nimblewood		Bonus: 4	Goblin: 2
+			
+Moonstone+Sandstone		Bonus: 3	Human: 2
+Moonstone+Clay			Bonus: 4	Human: 2
+Moonstone+Quartz			Bonus: 4	Human: 2
+Moonstone+Granite			Bonus: 5	Human: 2
+Moonstone+Obsidian		Bonus: 4	Human: 2	Goblin: 2
+Moonstone+Moonstone		Bonus: 5	Human: 3
+Moonstone+Straw			Bonus: 3	Human: 2
+Moonstone+Cane			Bonus: 4	Human: 2
+Moonstone+Wicker			Bonus: 4	Human: 2
+Moonstone+Nimblewood		Bonus: 5	Human: 2
+
+Amber+Sandstone			Bonus: 3
+Amber+Clay				Bonus: 3
+Amber+Quartz			Bonus: 3
+Amber+Granite			Bonus: 3
+Amber+Obsidian			Bonus: 3	Goblin: 2
+Amber+Moonstone			Bonus: 4	Human: 2
+Amber+Straw			Bonus: 2
+Amber+Cane				Bonus: 3
+Amber+Wicker			Bonus: 3
+Amber+Nimblewood			Bonus: 4
+
+Malachite+Sandstone		Bonus: 3
+Malachite+Clay			Bonus: 3
+Malachite+Quartz			Bonus: 3
+Malachite+Granite			Bonus: 3
+Malachite+Obsidian			Bonus: 3	Goblin: 2
+Malachite+Moonstone		Bonus: 4	Human: 2
+Malachite+Straw			Bonus: 2
+Malachite+Cane			Bonus: 3
+Malachite+Wicker			Bonus: 3
+Malachite+Nimblewood		Bonus: 4
+
+Topaz+Sandstone			Bonus: 3
+Topaz+Clay				Bonus: 3
+Topaz+Quartz			Bonus: 3
+Topaz+Granite			Bonus: 4
+Topaz+Obsidian			Bonus: 3	Goblin: 2
+Topaz+Moonstone			Bonus: 5	Human: 2
+Topaz+Straw				Bonus: 3
+Topaz+Cane				Bonus: 3
+Topaz+Wicker			Bonus: 3
+Topaz+Nimblewood			Bonus: 4
+
+Ruby+Sandstone			Bonus: 3
+Ruby+Clay				Bonus: 3
+Ruby+Quartz				Bonus: 3
+Ruby+Granite			Bonus: 4
+Ruby+Obsidian			Bonus: 3	Goblin: 2
+Ruby+Moonstone			Bonus: 5	Human: 2
+Ruby+Straw				Bonus: 3
+Ruby+Cane				Bonus: 3
+Ruby+Wicker				Bonus: 3
+Ruby+Nimblewood			Bonus: 4
+
+Diamond+Sandstone		Bonus: 3
+Diamond+Clay			Bonus: 4
+Diamond+Quartz			Bonus: 4
+Diamond+Granite			Bonus: 5
+Diamond+Obsidian			Bonus: 4	Goblin: 2
+Diamond+Moonstone		Bonus: 5	Human: 2
+Diamond+Straw			Bonus: 3
+Diamond+Cane			Bonus: 4
+Diamond+Wicker			Bonus: 4
+Diamond+Nimblewood		Bonus: 5

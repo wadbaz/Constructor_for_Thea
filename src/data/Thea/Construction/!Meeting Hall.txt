@@ -1,0 +1,304 @@
+Wood+Straw				Bonus: 1
+Wood+Cane				Bonus: 3
+Wood+Wicker			Bonus: 2
+Wood+Nimblewood			Bonus: 4
+Wood+Bone				Bonus: 1
+Wood+Monster bone		Bonus: 1	Beast: 5
+Wood+Enchanted bone		Bonus: 1	Demon: 2
+Wood+Dragon bone			Bonus: 1	Demon: 3
+Wood+Meat				Bonus: 1	Human: 2
+Wood+Bird meat			Bonus: 1	Human: 2
+Wood+Fish				Bonus: 1	Human: 2
+Wood+Grain				Bonus: 1	Human: 5
+Wood+Nuts				Bonus: 1	Human: 2
+Wood+Vegetable			Bonus: 1	Human: 3
+Wood+Fruit				Bonus: 1	Human: 3
+Wood+Exotic fruit			Bonus: 1	Human: 3
+Wood+Mushroom			Bonus: 1	Human: 3
+Wood+Seaweed			Bonus: 1	Human: 2
+
+Elven wood+Straw			Bonus: 2	Elf: 1
+Elven wood+Cane			Bonus: 3	Elf: 1
+Elven wood+Wicker			Bonus: 3	Elf: 1
+Elven wood+Nimblewood		Bonus: 5	Elf: 1
+Elven wood+Bone			Bonus: 2	Elf: 1
+Elven wood+Monster bone		Bonus: 2	Elf: 1		Beast: 5
+Elven wood+Enchanted bone	Bonus: 2	Elf: 1		Demon: 2
+Elven wood+Dragon bone		Bonus: 2	Elf: 1		Demon: 3
+Elven wood+Meat			Bonus: 2	Elf: 1		Human: 2
+Elven wood+Bird meat		Bonus: 2	Elf: 1		Human: 2
+Elven wood+Fish			Bonus: 2	Elf: 1		Human: 2
+Elven wood+Grain			Bonus: 2	Elf: 1		Human: 5
+Elven wood+Nuts			Bonus: 2	Elf: 1		Human: 2
+Elven wood+Vegetable		Bonus: 2	Elf: 1		Human: 3
+Elven wood+Fruit			Bonus: 2	Elf: 1		Human: 3
+Elven wood+Exotic fruit		Bonus: 2	Elf: 1		Human: 3
+Elven wood+Mushroom		Bonus: 2	Elf: 1		Human: 3
+Elven wood+Seaweed		Bonus: 2	Elf: 1		Human: 2
+
+Dark wood+Straw			Bonus: 2	Goblin: 1
+Dark wood+Cane			Bonus: 3	Goblin: 1
+Dark wood+Wicker			Bonus: 3	Goblin: 1
+Dark wood+Nimblewood		Bonus: 5	Goblin: 1
+Dark wood+Bone			Bonus: 2	Goblin: 1
+Dark wood+Monster bone		Bonus: 2	Goblin: 1	Beast: 5
+Dark wood+Enchanted bone	Bonus: 2	Goblin: 1	Demon: 2
+Dark wood+Dragon bone		Bonus: 2	Goblin: 1	Demon: 3
+Dark wood+Meat			Bonus: 2	Goblin: 1	Human: 2
+Dark wood+Bird meat		Bonus: 2	Goblin: 1	Human: 2
+Dark wood+Fish			Bonus: 2	Goblin: 1	Human: 2
+Dark wood+Grain			Bonus: 2	Goblin: 1	Human: 5
+Dark wood+Nuts			Bonus: 2	Goblin: 1	Human: 2
+Dark wood+Vegetable		Bonus: 2	Goblin: 1	Human: 3
+Dark wood+Fruit			Bonus: 2	Goblin: 1	Human: 3
+Dark wood+Exotic fruit		Bonus: 2	Goblin: 1	Human: 3
+Dark wood+Mushroom		Bonus: 2	Goblin: 1	Human: 3
+Dark wood+Seaweed		Bonus: 2	Goblin: 1	Human: 2
+
+Dryad wood+Straw			Bonus: 3
+Dryad wood+Cane			Bonus: 4
+Dryad wood+Wicker			Bonus: 4
+Dryad wood+Nimblewood		Bonus: 6
+Dryad wood+Bone			Bonus: 3
+Dryad wood+Monster bone		Bonus: 3	Beast: 5
+Dryad wood+Enchanted bone	Bonus: 3	Demon: 2
+Dryad wood+Dragon bone		Bonus: 3	Demon: 3
+Dryad wood+Meat			Bonus: 3	Human: 2
+Dryad wood+Bird meat		Bonus: 3	Human: 2
+Dryad wood+Fish			Bonus: 3	Human: 2
+Dryad wood+Grain			Bonus: 3	Human: 5
+Dryad wood+Nuts			Bonus: 3	Human: 2
+Dryad wood+Vegetable		Bonus: 3	Human: 3
+Dryad wood+Fruit			Bonus: 3	Human: 3
+Dryad wood+Exotic fruit		Bonus: 3	Human: 3
+Dryad wood+Mushroom		Bonus: 3	Human: 3
+Dryad wood+Seaweed		Bonus: 3	Human: 2
+
+Ancient wood+Straw		Bonus: 4
+Ancient wood+Cane			Bonus: 6
+Ancient wood+Wicker		Bonus: 5
+Ancient wood+Nimblewood		Bonus: 7
+Ancient wood+Bone			Bonus: 4
+Ancient wood+Monster bone	Bonus: 4	Beast: 5
+Ancient wood+Enchanted bone	Bonus: 4	Demon: 2
+Ancient wood+Dragon bone	Bonus: 4	Demon: 3
+Ancient wood+Meat			Bonus: 4	Human: 2
+Ancient wood+Bird meat		Bonus: 4	Human: 2
+Ancient wood+Fish			Bonus: 4	Human: 2
+Ancient wood+Grain			Bonus: 4	Human: 5
+Ancient wood+Nuts			Bonus: 4	Human: 2
+Ancient wood+Vegetable		Bonus: 4	Human: 3
+Ancient wood+Fruit			Bonus: 4	Human: 3
+Ancient wood+Exotic fruit		Bonus: 4	Human: 3
+Ancient wood+Mushroom		Bonus: 4	Human: 3
+Ancient wood+Seaweed		Bonus: 4	Human: 2
+			
+Sandstone+Straw			Bonus: 2	Beast: 1
+Sandstone+Cane			Bonus: 3	Beast: 1
+Sandstone+Wicker			Bonus: 3	Beast: 1
+Sandstone+Nimblewood		Bonus: 5	Beast: 1
+Sandstone+Bone			Bonus: 2	Beast: 1
+Sandstone+Monster bone		Bonus: 2	Beast: 6
+Sandstone+Enchanted bone	Bonus: 2	Beast: 1	Demon: 2
+Sandstone+Dragon bone		Bonus: 2	Beast: 1	Demon: 3
+Sandstone+Meat			Bonus: 2	Beast: 1	Human: 2
+Sandstone+Bird meat		Bonus: 2	Beast: 1	Human: 2
+Sandstone+Fish			Bonus: 2	Beast: 1	Human: 2
+Sandstone+Grain			Bonus: 2	Beast: 1	Human: 5
+Sandstone+Nuts			Bonus: 2	Beast: 1	Human: 2
+Sandstone+Vegetable		Bonus: 2	Beast: 1	Human: 3
+Sandstone+Fruit			Bonus: 2	Beast: 1	Human: 3
+Sandstone+Exotic fruit		Bonus: 2	Beast: 1	Human: 3
+Sandstone+Mushroom		Bonus: 2	Beast: 1	Human: 3
+Sandstone+Seaweed		Bonus: 2	Beast: 1	Human: 2
+
+Clay+Straw				Bonus: 3	Beast: 1
+Clay+Cane				Bonus: 4	Beast: 1
+Clay+Wicker				Bonus: 4	Beast: 1
+Clay+Nimblewood			Bonus: 5	Beast: 1
+Clay+Bone				Bonus: 3	Beast: 1
+Clay+Monster bone			Bonus: 3	Beast: 6
+Clay+Enchanted bone		Bonus: 3	Beast: 1	Demon: 2
+Clay+Dragon bone			Bonus: 3	Beast: 1	Demon: 3
+Clay+Meat				Bonus: 3	Beast: 1	Human: 2
+Clay+Bird meat			Bonus: 3	Beast: 1	Human: 2
+Clay+Fish				Bonus: 3	Beast: 1	Human: 2
+Clay+Grain				Bonus: 3	Beast: 1	Human: 5
+Clay+Nuts				Bonus: 3	Beast: 1	Human: 2
+Clay+Vegetable			Bonus: 3	Beast: 1	Human: 3
+Clay+Fruit				Bonus: 3	Beast: 1	Human: 3
+Clay+Exotic fruit			Bonus: 3	Beast: 1	Human: 3
+Clay+Mushroom			Bonus: 3	Beast: 1	Human: 3
+Clay+Seaweed			Bonus: 3	Beast: 1	Human: 2
+
+Quartz+Straw			Bonus: 3
+Quartz+Cane				Bonus: 4
+Quartz+Wicker			Bonus: 4
+Quartz+Nimblewood			Bonus: 6
+Quartz+Bone				Bonus: 3
+Quartz+Monster bone		Bonus: 3	Beast: 5
+Quartz+Enchanted bone		Bonus: 3	Demon: 2
+Quartz+Dragon bone		Bonus: 3	Demon: 3
+Quartz+Meat				Bonus: 3	Human: 2
+Quartz+Bird meat			Bonus: 3	Human: 2
+Quartz+Fish				Bonus: 3	Human: 2
+Quartz+Grain			Bonus: 3	Human: 5
+Quartz+Nuts				Bonus: 3	Human: 2
+Quartz+Vegetable			Bonus: 3	Human: 3
+Quartz+Fruit				Bonus: 3	Human: 3
+Quartz+Exotic fruit			Bonus: 3	Human: 3
+Quartz+Mushroom			Bonus: 3	Human: 3
+Quartz+Seaweed			Bonus: 3	Human: 2
+		
+Granite+Straw			Bonus: 3
+Granite+Cane			Bonus: 5
+Granite+Wicker			Bonus: 4
+Granite+Nimblewood		Bonus: 6
+Granite+Bone			Bonus: 3
+Granite+Monster bone		Bonus: 3	Beast: 5
+Granite+Enchanted bone		Bonus: 3	Demon: 2
+Granite+Dragon bone		Bonus: 3	Demon: 3
+Granite+Meat			Bonus: 3	Human: 2
+Granite+Bird meat			Bonus: 3	Human: 2
+Granite+Fish				Bonus: 3	Human: 2
+Granite+Grain			Bonus: 3	Human: 5
+Granite+Nuts				Bonus: 3	Human: 2
+Granite+Vegetable			Bonus: 3	Human: 3
+Granite+Fruit				Bonus: 3	Human: 3
+Granite+Exotic fruit			Bonus: 3	Human: 3
+Granite+Mushroom			Bonus: 3	Human: 3
+Granite+Seaweed			Bonus: 3	Human: 2
+			
+Obsidian+Straw			Bonus: 3	Goblin: 3
+Obsidian+Cane			Bonus: 4	Goblin: 3
+Obsidian+Wicker			Bonus: 4	Goblin: 3
+Obsidian+Nimblewood		Bonus: 6	Goblin: 3
+Obsidian+Bone			Bonus: 3	Goblin: 3
+Obsidian+Monster bone		Bonus: 3	Goblin: 3	Beast: 5
+Obsidian+Enchanted bone		Bonus: 3	Goblin: 3	Demon: 2
+Obsidian+Dragon bone		Bonus: 3	Goblin: 3	Demon: 3
+Obsidian+Meat			Bonus: 3	Goblin: 3	Human: 2
+Obsidian+Bird meat			Bonus: 3	Goblin: 3	Human: 2
+Obsidian+Fish			Bonus: 3	Goblin: 3	Human: 2
+Obsidian+Grain			Bonus: 3	Goblin: 3	Human: 5
+Obsidian+Nuts			Bonus: 3	Goblin: 3	Human: 2
+Obsidian+Vegetable			Bonus: 3	Goblin: 3	Human: 3
+Obsidian+Fruit			Bonus: 3	Goblin: 3	Human: 3
+Obsidian+Exotic fruit		Bonus: 3	Goblin: 3	Human: 3
+Obsidian+Mushroom			Bonus: 3	Goblin: 3	Human: 3
+Obsidian+Seaweed			Bonus: 3	Goblin: 3	Human: 2
+			
+Moonstone+Straw			Bonus: 4	Human: 2
+Moonstone+Cane			Bonus: 6	Human: 2
+Moonstone+Wicker			Bonus: 5	Human: 2
+Moonstone+Nimblewood		Bonus: 7	Human: 2
+Moonstone+Bone			Bonus: 4	Human: 2
+Moonstone+Monster bone		Bonus: 4	Human: 2	Beast: 5
+Moonstone+Enchanted bone	Bonus: 4	Human: 2	Demon: 2
+Moonstone+Dragon bone		Bonus: 4	Human: 2	Demon: 3
+Moonstone+Meat			Bonus: 4	Human: 4
+Moonstone+Bird meat		Bonus: 4	Human: 4
+Moonstone+Fish			Bonus: 4	Human: 4
+Moonstone+Grain			Bonus: 4	Human: 7
+Moonstone+Nuts			Bonus: 4	Human: 4
+Moonstone+Vegetable		Bonus: 4	Human: 6
+Moonstone+Fruit			Bonus: 4	Human: 6
+Moonstone+Exotic fruit		Bonus: 4	Human: 6
+Moonstone+Mushroom		Bonus: 4	Human: 6
+Moonstone+Seaweed		Bonus: 4	Human: 4
+
+Iron+Straw				Bonus: 1
+Iron+Cane				Bonus: 3
+Iron+Wicker				Bonus: 2
+Iron+Nimblewood			Bonus: 4
+Iron+Bone				Bonus: 1
+Iron+Monster bone			Bonus: 1	Beast: 5
+Iron+Enchanted bone		Bonus: 1	Demon: 2
+Iron+Dragon bone			Bonus: 1	Demon: 3
+Iron+Meat				Bonus: 1	Human: 2
+Iron+Bird meat			Bonus: 1	Human: 2
+Iron+Fish				Bonus: 1	Human: 2
+Iron+Grain				Bonus: 1	Human: 5
+Iron+Nuts				Bonus: 1	Human: 2
+Iron+Vegetable			Bonus: 1	Human: 3
+Iron+Fruit				Bonus: 1	Human: 3
+Iron+Exotic fruit			Bonus: 1	Human: 3
+Iron+Mushroom			Bonus: 1	Human: 3
+Iron+Seaweed			Bonus: 1	Human: 2
+		
+Gold+Straw				Bonus: 2	Dwarf: 2
+Gold+Cane				Bonus: 3	Dwarf: 2
+Gold+Wicker				Bonus: 3	Dwarf: 2
+Gold+Nimblewood			Bonus: 5	Dwarf: 2
+Gold+Bone				Bonus: 2	Dwarf: 2
+Gold+Monster bone			Bonus: 2	Dwarf: 2	Beast: 5
+Gold+Enchanted bone		Bonus: 2	Dwarf: 2	Demon: 2
+Gold+Dragon bone			Bonus: 2	Dwarf: 2	Demon: 3
+Gold+Meat				Bonus: 2	Dwarf: 2	Human: 2
+Gold+Bird meat			Bonus: 2	Dwarf: 2	Human: 2
+Gold+Fish				Bonus: 2	Dwarf: 2	Human: 2
+Gold+Grain				Bonus: 2	Dwarf: 2	Human: 5
+Gold+Nuts				Bonus: 2	Dwarf: 2	Human: 2
+Gold+Vegetable			Bonus: 2	Dwarf: 2	Human: 3
+Gold+Fruit				Bonus: 2	Dwarf: 2	Human: 3
+Gold+Exotic fruit			Bonus: 2	Dwarf: 2	Human: 3
+Gold+Mushroom			Bonus: 2	Dwarf: 2	Human: 3
+Gold+Seaweed			Bonus: 2	Dwarf: 2	Human: 2
+
+Steel+Straw				Bonus: 2	Orc: 2
+Steel+Cane				Bonus: 3	Orc: 2
+Steel+Wicker				Bonus: 3	Orc: 2
+Steel+Nimblewood			Bonus: 5	Orc: 2
+Steel+Bone				Bonus: 2	Orc: 2
+Steel+Monster bone			Bonus: 2	Orc: 2		Beast: 5
+Steel+Enchanted bone		Bonus: 2	Orc: 2		Demon: 2
+Steel+Dragon bone			Bonus: 2	Orc: 2		Demon: 3
+Steel+Meat				Bonus: 2	Orc: 2		Human: 2
+Steel+Bird meat			Bonus: 2	Orc: 2		Human: 2
+Steel+Fish				Bonus: 2	Orc: 2		Human: 2
+Steel+Grain				Bonus: 2	Orc: 2		Human: 5
+Steel+Nuts				Bonus: 2	Orc: 2		Human: 2
+Steel+Vegetable			Bonus: 2	Orc: 2		Human: 3
+Steel+Fruit				Bonus: 2	Orc: 2		Human: 3
+Steel+Exotic fruit			Bonus: 2	Orc: 2		Human: 3
+Steel+Mushroom			Bonus: 2	Orc: 2		Human: 3
+Steel+Seaweed			Bonus: 2	Orc: 2		Human: 2
+		
+Silver+Straw				Bonus: 3
+Silver+Cane				Bonus: 5
+Silver+Wicker			Bonus: 4
+Silver+Nimblewood			Bonus: 6
+Silver+Bone				Bonus: 3
+Silver+Monster bone		Bonus: 3	Beast: 5
+Silver+Enchanted bone		Bonus: 3	Demon: 2
+Silver+Dragon bone			Bonus: 3	Demon: 3
+Silver+Meat				Bonus: 3	Human: 2
+Silver+Bird meat			Bonus: 3	Human: 2
+Silver+Fish				Bonus: 3	Human: 2
+Silver+Grain				Bonus: 3	Human: 5
+Silver+Nuts				Bonus: 3	Human: 2
+Silver+Vegetable			Bonus: 3	Human: 3
+Silver+Fruit				Bonus: 3	Human: 3
+Silver+Exotic fruit			Bonus: 3	Human: 3
+Silver+Mushroom			Bonus: 3	Human: 3
+Silver+Seaweed			Bonus: 3	Human: 2
+
+Mithrill+Straw			Bonus: 4
+Mithrill+Cane				Bonus: 6
+Mithrill+Wicker			Bonus: 5
+Mithrill+Nimblewood			Bonus: 7
+Mithrill+Bone				Bonus: 4
+Mithrill+Monster bone		Bonus: 4	Beast: 5
+Mithrill+Enchanted bone		Bonus: 4	Demon: 2
+Mithrill+Dragon bone		Bonus: 4	Demon: 3
+Mithrill+Meat				Bonus: 4	Human: 2
+Mithrill+Bird meat			Bonus: 4	Human: 2
+Mithrill+Fish				Bonus: 4	Human: 2
+Mithrill+Grain				Bonus: 4	Human: 5
+Mithrill+Nuts				Bonus: 4	Human: 2
+Mithrill+Vegetable			Bonus: 4	Human: 3
+Mithrill+Fruit				Bonus: 4	Human: 3
+Mithrill+Exotic fruit			Bonus: 4	Human: 3
+Mithrill+Mushroom			Bonus: 4	Human: 3
+Mithrill+Seaweed			Bonus: 4	Human: 2
+		

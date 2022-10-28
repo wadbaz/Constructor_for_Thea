@@ -1,0 +1,98 @@
+Wood+Straw				Beast: 1
+Wood+Cane				Beast: 2
+Wood+Wicker			Beast: 2
+Wood+Nimblewood			Beast: 3
+Wood+Leather			Beast: 1
+Wood+Fur leather			Beast: 2
+Wood+Scaled leather		Beast: 3
+Wood+Dragon leather		Beast: 3
+Wood+Grain				Beast: 1	Human: 3
+Wood+Nuts				Beast: 1	Human: 1
+
+Elven wood+Straw			Beast: 1
+Elven wood+Cane			Beast: 2
+Elven wood+Wicker			Beast: 2
+Elven wood+Nimblewood		Beast: 3
+Elven wood+Leather			Beast: 1
+Elven wood+Fur leather		Beast: 3
+Elven wood+Scaled leather		Beast: 3
+Elven wood+Dragon leather	Beast: 3
+Elven wood+Grain			Beast: 1	Human: 3
+Elven wood+Nuts			Beast: 1	Human: 1
+
+Dark wood+Straw			Beast: 1
+Dark wood+Cane			Beast: 2
+Dark wood+Wicker			Beast: 2
+Dark wood+Nimblewood		Beast: 3
+Dark wood+Leather			Beast: 1
+Dark wood+Fur leather		Beast: 3
+Dark wood+Scaled leather		Beast: 3
+Dark wood+Dragon leather		Beast: 3
+Dark wood+Grain			Beast: 1	Human: 3
+Dark wood+Nuts			Beast: 1	Human: 1
+
+Dryad wood+Straw			Beast: 2
+Dryad wood+Cane			Beast: 3
+Dryad wood+Wicker			Beast: 3
+Dryad wood+Nimblewood		Beast: 4
+Dryad wood+Leather		Beast: 2
+Dryad wood+Fur leather		Beast: 3
+Dryad wood+Scaled leather	Beast: 3
+Dryad wood+Dragon leather	Beast: 4
+Dryad wood+Grain			Beast: 2	Human: 3
+Dryad wood+Nuts			Beast: 2	Human: 1
+
+Ancient wood+Straw		Beast: 3
+Ancient wood+Cane			Beast: 4
+Ancient wood+Wicker		Beast: 4
+Ancient wood+Nimblewood		Beast: 5
+Ancient wood+Leather		Beast: 3
+Ancient wood+Fur leather		Beast: 4
+Ancient wood+Scaled leather	Beast: 5
+Ancient wood+Dragon leather	Beast: 5
+Ancient wood+Grain			Beast: 3	Human: 3
+Ancient wood+Nuts			Beast: 3	Human: 1
+
+Leather+Straw			Beast: 1
+Leather+Cane			Beast: 2
+Leather+Wicker			Beast: 2
+Leather+Nimblewood		Beast: 3
+Leather+Leather			Beast: 1
+Leather+Fur leather			Beast: 2
+Leather+Scaled leather		Beast: 3
+Leather+Dragon leather		Beast: 3
+Leather+Grain			Beast: 1	Human: 3
+Leather+Nuts				Beast: 1	Human: 1
+
+Fur leather+Straw			Beast: 2
+Fur leather+Cane			Beast: 3
+Fur leather+Wicker			Beast: 3
+Fur leather+Nimblewood		Beast: 4
+Fur leather+Leather			Beast: 2
+Fur leather+Fur leather		Beast: 3
+Fur leather+Scaled leather		Beast: 3
+Fur leather+Dragon leather		Beast: 4
+Fur leather+Grain			Beast: 2	Human: 3
+Fur leather+Nuts			Beast: 2	Human: 1
+
+Scaled leather+Straw		Beast: 3
+Scaled leather+Cane		Beast: 3
+Scaled leather+Wicker		Beast: 3
+Scaled leather+Nimblewood	Beast: 4
+Scaled leather+Leather		Beast: 3
+Scaled leather+Fur leather		Beast: 3
+Scaled leather+Scaled leather	Beast: 4
+Scaled leather+Dragon leather	Beast: 5
+Scaled leather+Grain		Beast: 3	Human: 3
+Scaled leather+Nuts			Beast: 3	Human: 1
+
+Dragon leather+Straw		Beast: 3
+Dragon leather+Cane		Beast: 4
+Dragon leather+Wicker		Beast: 4
+Dragon leather+Nimblewood	Beast: 5
+Dragon leather+Leather		Beast: 3
+Dragon leather+Fur leather		Beast: 4
+Dragon leather+Scaled leather	Beast: 5
+Dragon leather+Dragon leather	Beast: 5
+Dragon leather+Grain		Beast: 3	Human: 3
+Dragon leather+Nuts		Beast: 3	Human: 1

@@ -1,0 +1,87 @@
+Wood+Straw				Resource: 1
+Wood+Cane				Resource: 2
+Wood+Wicker			Resource: 2
+Wood+Nimblewood			Resource: 3
+Wood+String				Resource: 1
+Wood+Vine				Resource: 2
+Wood+Spidersilk			Resource: 3
+
+Elven wood+Straw			Resource: 1
+Elven wood+Cane			Resource: 2
+Elven wood+Wicker			Resource: 2
+Elven wood+Nimblewood		Resource: 3
+Elven wood+String			Resource: 1
+Elven wood+Vine			Resource: 3
+Elven wood+Spidersilk		Resource: 3
+
+Dark wood+Straw			Resource: 1
+Dark wood+Cane			Resource: 2
+Dark wood+Wicker			Resource: 2
+Dark wood+Nimblewood		Resource: 3
+Dark wood+String			Resource: 1
+Dark wood+Vine			Resource: 3
+Dark wood+Spidersilk		Resource: 3
+
+Dryad wood+Straw			Resource: 2
+Dryad wood+Cane			Resource: 3
+Dryad wood+Wicker			Resource: 3
+Dryad wood+Nimblewood		Resource: 4
+Dryad wood+String			Resource: 2
+Dryad wood+Vine			Resource: 3
+Dryad wood+Spidersilk		Resource: 3
+
+Ancient wood+Straw		Resource: 3
+Ancient wood+Cane			Resource: 4
+Ancient wood+Wicker		Resource: 4
+Ancient wood+Nimblewood		Resource: 5
+Ancient wood+String		Resource: 3
+Ancient wood+Vine			Resource: 4
+Ancient wood+Spidersilk		Resource: 5
+			
+Sandstone+Straw			Resource: 1
+Sandstone+Cane			Resource: 2
+Sandstone+Wicker			Resource: 2
+Sandstone+Nimblewood		Resource: 3
+Sandstone+String			Resource: 1
+Sandstone+Vine			Resource: 3
+Sandstone+Spidersilk		Resource: 3
+		 
+Clay+Straw				Resource: 2
+Clay+Cane				Resource: 3
+Clay+Wicker				Resource: 3
+Clay+Nimblewood			Resource: 4
+Clay+String				Resource: 2
+Clay+Vine				Resource: 3
+Clay+Spidersilk			Resource: 3
+			
+Quartz+Straw			Resource: 2
+Quartz+Cane				Resource: 3
+Quartz+Wicker			Resource: 3
+Quartz+Nimblewood			Resource: 4
+Quartz+String			Resource: 3
+Quartz+Vine				Resource: 3
+Quartz+Spidersilk			Resource: 3
+		
+Granite+Straw			Resource: 3
+Granite+Cane			Resource: 3
+Granite+Wicker			Resource: 3
+Granite+Nimblewood		Resource: 4
+Granite+String			Resource: 3
+Granite+Vine				Resource: 3
+Granite+Spidersilk			Resource: 4
+			
+Obsidian+Straw			Resource: 2	Goblin: 2
+Obsidian+Cane			Resource: 3	Goblin: 2
+Obsidian+Wicker			Resource: 3	Goblin: 2
+Obsidian+Nimblewood		Resource: 4	Goblin: 2
+Obsidian+String			Resource: 2	Goblin: 2
+Obsidian+Vine			Resource: 3	Goblin: 2
+Obsidian+Spidersilk			Resource: 3	Goblin: 2
+			
+Moonstone+Straw			Resource: 3	Human: 2
+Moonstone+Cane			Resource: 4	Human: 2
+Moonstone+Wicker			Resource: 4	Human: 2
+Moonstone+Nimblewood		Resource: 5	Human: 2
+Moonstone+String			Resource: 3	Human: 2
+Moonstone+Vine			Resource: 4	Human: 2
+Moonstone+Spidersilk		Resource: 5	Human: 2

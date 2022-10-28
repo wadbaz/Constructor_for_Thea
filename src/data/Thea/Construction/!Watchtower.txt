@@ -1,0 +1,314 @@
+Wood+Wood				Vision: 1
+Wood+Elven wood			Vision: 1
+Wood+Dark wood			Vision: 1
+Wood+Dryad wood			Vision: 2
+Wood+Ancient wood			Vision: 3
+Wood+Iron				Vision: 1
+Wood+Gold				Vision: 1	Dwarf: 1
+Wood+Steel				Vision: 1	Orc: 1
+Wood+Silver				Vision: 3
+Wood+Mithrill			Vision: 3
+Wood+Sandstone			Vision: 1
+Wood+Clay				Vision: 2
+Wood+Quartz			Vision: 2
+Wood+Granite			Vision: 3
+Wood+Obsidian			Vision: 2	Goblin: 2
+Wood+Moonstone			Vision: 3	Human: 2
+Wood+Straw				Vision: 1
+Wood+Cane				Vision: 2
+Wood+Wicker			Vision: 2
+Wood+Nimblewood			Vision: 3
+
+Elven wood+Wood			Vision: 1
+Elven wood+Elven wood		Vision: 2	Elf: 1
+Elven wood+Dark wood		Vision: 2
+Elven wood+Dryad wood		Vision: 3
+Elven wood+Ancient wood		Vision: 3
+Elven wood+Iron			Vision: 1
+Elven wood+Gold			Vision: 2	Dwarf: 1
+Elven wood+Steel			Vision: 2	Orc: 1
+Elven wood+Silver			Vision: 3
+Elven wood+Mithrill			Vision: 3
+Elven wood+Sandstone		Vision: 2
+Elven wood+Clay			Vision: 3
+Elven wood+Quartz			Vision: 3
+Elven wood+Granite			Vision: 3
+Elven wood+Obsidian		Vision: 3	Goblin: 2
+Elven wood+Moonstone		Vision: 3	Human: 2
+Elven wood+Straw			Vision: 1
+Elven wood+Cane			Vision: 2
+Elven wood+Wicker			Vision: 2
+Elven wood+Nimblewood		Vision: 3
+
+Dark wood+Wood			Vision: 1
+Dark wood+Elven wood		Vision: 2
+Dark wood+Dark wood		Vision: 2	Goblin: 1
+Dark wood+Dryad wood		Vision: 3
+Dark wood+Ancient wood		Vision: 3
+Dark wood+Iron			Vision: 1
+Dark wood+Gold			Vision: 2	Dwarf: 1
+Dark wood+Steel			Vision: 2	Orc: 1
+Dark wood+Silver			Vision: 3
+Dark wood+Mithrill			Vision: 3
+Dark wood+Sandstone		Vision: 2
+Dark wood+Clay			Vision: 3
+Dark wood+Quartz			Vision: 3
+Dark wood+Granite			Vision: 3
+Dark wood+Obsidian		Vision: 3	Goblin: 2
+Dark wood+Moonstone		Vision: 3	Human: 2
+Dark wood+Straw			Vision: 1
+Dark wood+Cane			Vision: 2
+Dark wood+Wicker			Vision: 2
+Dark wood+Nimblewood		Vision: 3
+
+Dryad wood+Wood			Vision: 2
+Dryad wood+Elven wood		Vision: 3
+Dryad wood+Dark wood		Vision: 3
+Dryad wood+Dryad wood		Vision: 3
+Dryad wood+Ancient wood		Vision: 4
+Dryad wood+Iron			Vision: 2
+Dryad wood+Gold			Vision: 3	Dwarf: 1
+Dryad wood+Steel			Vision: 3	Orc: 1
+Dryad wood+Silver			Vision: 3
+Dryad wood+Mithrill			Vision: 4
+Dryad wood+Sandstone		Vision: 3
+Dryad wood+Clay			Vision: 3
+Dryad wood+Quartz			Vision: 3
+Dryad wood+Granite		Vision: 3
+Dryad wood+Obsidian		Vision: 3	Goblin: 2
+Dryad wood+Moonstone		Vision: 4	Human: 2
+Dryad wood+Straw			Vision: 2
+Dryad wood+Cane			Vision: 3
+Dryad wood+Wicker			Vision: 3
+Dryad wood+Nimblewood		Vision: 4
+
+Ancient wood+Wood			Vision: 3
+Ancient wood+Elven wood		Vision: 3
+Ancient wood+Dark wood		Vision: 3
+Ancient wood+Dryad wood		Vision: 4
+Ancient wood+Ancient wood	Vision: 5
+Ancient wood+Iron			Vision: 3
+Ancient wood+Gold			Vision: 3	Dwarf: 1
+Ancient wood+Steel			Vision: 3	Orc: 1
+Ancient wood+Silver		Vision: 5
+Ancient wood+Mithrill		Vision: 5
+Ancient wood+Sandstone		Vision: 3
+Ancient wood+Clay			Vision: 4
+Ancient wood+Quartz		Vision: 4
+Ancient wood+Granite		Vision: 5
+Ancient wood+Obsidian		Vision: 4	Goblin: 2
+Ancient wood+Moonstone		Vision: 5	Human: 2
+Ancient wood+Straw		Vision: 3
+Ancient wood+Cane			Vision: 4
+Ancient wood+Wicker		Vision: 4
+Ancient wood+Nimblewood		Vision: 5
+			
+Sandstone+Wood			Vision: 1
+Sandstone+Elven wood		Vision: 1
+Sandstone+Dark wood		Vision: 2
+Sandstone+Dryad wood		Vision: 3
+Sandstone+Ancient wood		Vision: 3
+Sandstone+Iron			Vision: 1
+Sandstone+Gold			Vision: 2	Dwarf: 1
+Sandstone+Steel			Vision: 2	Orc: 1
+Sandstone+Silver			Vision: 3
+Sandstone+Mithrill			Vision: 3
+Sandstone+Sandstone		Vision: 2	Beast: 1
+Sandstone+Clay			Vision: 3	Beast: 1
+Sandstone+Quartz			Vision: 3
+Sandstone+Granite			Vision: 3
+Sandstone+Obsidian		Vision: 3	Goblin: 2
+Sandstone+Moonstone		Vision: 3	Human: 2
+Sandstone+Straw			Vision: 1
+Sandstone+Cane			Vision: 2
+Sandstone+Wicker			Vision: 2
+Sandstone+Nimblewood		Vision: 3
+		 
+Clay+Wood				Vision: 2
+Clay+Elven wood			Vision: 3
+Clay+Dark wood			Vision: 3
+Clay+Dryad wood			Vision: 3
+Clay+Ancient wood			Vision: 4
+Clay+Iron				Vision: 2
+Clay+Gold				Vision: 3	Dwarf: 1
+Clay+Steel				Vision: 3	Orc: 1
+Clay+Silver				Vision: 3
+Clay+Mithrill				Vision: 4
+Clay+Sandstone			Vision: 3	Beast: 1
+Clay+Clay				Vision: 3	Beast: 1
+Clay+Quartz				Vision: 3
+Clay+Granite				Vision: 3
+Clay+Obsidian			Vision: 3	Goblin: 2
+Clay+Moonstone			Vision: 4	Human: 2
+Clay+Straw				Vision: 2
+Clay+Cane				Vision: 3
+Clay+Wicker				Vision: 3
+Clay+Nimblewood			Vision: 4
+			
+Quartz+Wood			Vision: 2
+Quartz+Elven wood			Vision: 3
+Quartz+Dark wood			Vision: 3
+Quartz+Dryad wood			Vision: 3
+Quartz+Ancient wood		Vision: 4
+Quartz+Iron				Vision: 2
+Quartz+Gold				Vision: 3	Dwarf: 1
+Quartz+Steel				Vision: 3	Orc: 1
+Quartz+Silver			Vision: 3
+Quartz+Mithrill			Vision: 4
+Quartz+Sandstone			Vision: 3
+Quartz+Clay				Vision: 3
+Quartz+Quartz			Vision: 3
+Quartz+Granite			Vision: 3
+Quartz+Obsidian			Vision: 3	Goblin: 2
+Quartz+Moonstone			Vision: 4	Human: 2
+Quartz+Straw			Vision: 2
+Quartz+Cane				Vision: 3
+Quartz+Wicker			Vision: 3
+Quartz+Nimblewood			Vision: 4
+		
+Granite+Wood			Vision: 3 
+Granite+Elven wood			Vision: 3
+Granite+Dark wood			Vision: 3
+Granite+Dryad wood		Vision: 3
+Granite+Ancient wood		Vision: 5
+Granite+Iron				Vision: 3
+Granite+Gold				Vision: 3	Dwarf: 1
+Granite+Steel			Vision: 3	Orc: 1
+Granite+Silver			Vision: 4
+Granite+Mithrill			Vision: 5
+Granite+Sandstone			Vision: 3
+Granite+Clay				Vision: 3
+Granite+Quartz			Vision: 3
+Granite+Granite			Vision: 4
+Granite+Obsidian			Vision: 3	Goblin: 2
+Granite+Moonstone			Vision: 5	Human: 2
+Granite+Straw			Vision: 3
+Granite+Cane			Vision: 3
+Granite+Wicker			Vision: 3
+Granite+Nimblewood		Vision: 4
+			
+Obsidian+Wood			Vision: 2	Goblin: 2
+Obsidian+Elven wood		Vision: 3	Goblin: 2
+Obsidian+Dark wood		Vision: 3	Goblin: 2
+Obsidian+Dryad wood		Vision: 3	Goblin: 2
+Obsidian+Ancient wood		Vision: 4	Goblin: 2
+Obsidian+Iron			Vision: 2	Goblin: 2
+Obsidian+Gold			Vision: 3	Goblin: 2	Dwarf: 1
+Obsidian+Steel			Vision: 3	Goblin: 2	Orc: 1
+Obsidian+Silver			Vision: 3	Goblin: 2
+Obsidian+Mithrill			Vision: 4	Goblin: 2
+Obsidian+Sandstone		Vision: 3	Goblin: 2	
+Obsidian+Clay			Vision: 3	Goblin: 2		
+Obsidian+Quartz			Vision: 3	Goblin: 2
+Obsidian+Granite			Vision: 3	Goblin: 2
+Obsidian+Obsidian			Vision: 3	Goblin: 4
+Obsidian+Moonstone		Vision: 4	Goblin: 2	Human: 2
+Obsidian+Straw			Vision: 2	Goblin: 2
+Obsidian+Cane			Vision: 3	Goblin: 2
+Obsidian+Wicker			Vision: 3	Goblin: 2
+Obsidian+Nimblewood		Vision: 4	Goblin: 2
+			
+Moonstone+Wood			Vision: 3	Human: 2			
+Moonstone+Elven wood		Vision: 3	Human: 2
+Moonstone+Dark wood		Vision: 3	Human: 2
+Moonstone+Dryad wood		Vision: 4	Human: 2
+Moonstone+Ancient wood		Vision: 5	Human: 2
+Moonstone+Iron			Vision: 5	Human: 2
+Moonstone+Gold			Vision: 3	Human: 2	Dwarf: 1
+Moonstone+Steel			Vision: 3	Human: 2	Orc: 1
+Moonstone+Silver			Vision: 5	Human: 2
+Moonstone+Mithrill			Vision: 5	Human: 2
+Moonstone+Sandstone		Vision: 3	Human: 2
+Moonstone+Clay			Vision: 4	Human: 2
+Moonstone+Quartz			Vision: 4	Human: 2
+Moonstone+Granite			Vision: 5	Human: 2
+Moonstone+Obsidian		Vision: 4	Human: 2	Goblin: 2
+Moonstone+Moonstone		Vision: 5	Human: 3
+Moonstone+Straw			Vision: 3	Human: 2
+Moonstone+Cane			Vision: 4	Human: 2
+Moonstone+Wicker			Vision: 4	Human: 2
+Moonstone+Nimblewood		Vision: 5	Human: 2
+		
+Bone+Wood				Vision: 1
+Bone+Elven wood			Vision: 1
+Bone+Dark wood			Vision: 1
+Bone+Dryad wood			Vision: 2
+Bone+Ancient wood			Vision: 3
+Bone+Iron				Vision: 1
+Bone+Gold				Vision: 1	Dwarf: 1
+Bone+Steel				Vision: 1	Orc: 1
+Bone+Silver				Vision: 3
+Bone+Mithrill				Vision: 3
+Bone+Sandstone			Vision: 1
+Bone+Clay				Vision: 2
+Bone+Quartz				Vision: 2
+Bone+Granite			Vision: 3
+Bone+Obsidian			Vision: 2	Goblin: 2
+Bone+Moonstone			Vision: 3	Human: 2
+Bone+Straw				Vision: 1
+Bone+Cane				Vision: 2
+Bone+Wicker				Vision: 2
+Bone+Nimblewood			Vision: 3
+
+Monster bone+Wood		Vision: 1	Beast: 3
+Monster bone+Elven wood		Vision: 1	Beast: 3
+Monster bone+Dark wood		Vision: 1	Beast: 3
+Monster bone+Dryad woodv	Vision: 2	Beast: 3
+Monster bone+Ancient wood	Vision: 3	Beast: 3
+Monster bone+Iron			Vision: 1	Beast: 3
+Monster bone+Gold			Vision: 1	Beast: 3	Dwarf: 1
+Monster bone+Steel			Vision: 1	Beast: 3	Orc: 1
+Monster bone+Silver		Vision: 3	Beast: 3
+Monster bone+Mithrillv		Vision: 3	Beast: 3
+Monster bone+Sandstone		Vision: 1	Beast: 4
+Monster bone+Clay			Vision: 2	Beast: 4
+Monster bone+Quartz		Vision: 2	Beast: 3
+Monster bone+Granite		Vision: 3	Beast: 3
+Monster bone+Obsidian		Vision: 2	Beast: 3	Goblin: 2
+Monster bone+Moonstone		Vision: 3	Beast: 3	Human: 2
+Monster bone+Straw		Vision: 1	Beast: 3
+Monster bone+Cane			Vision: 2	Beast: 3
+Monster bone+Wicker		Vision: 2	Beast: 3
+Monster bone+Nimblewood		Vision: 3	Beast: 3
+
+Enchanted bone+Wood		Vision: 1	Demon: 1
+Enchanted bone+Elven wood	Vision: 1	Demon: 1
+Enchanted bone+Dark wood	Vision: 1	Demon: 1
+Enchanted bone+Dryad wood	Vision: 2	Demon: 1
+Enchanted bone+Ancient wood	Vision: 3	Demon: 1
+Enchanted bone+Iron		Vision: 1	Demon: 1
+Enchanted bone+Gold		Vision: 1	Demon: 1	Dwarf: 1
+Enchanted bone+Steel		Vision: 1	Demon: 1	Orc: 1
+Enchanted bone+Silver		Vision: 3	Demon: 1
+Enchanted bone+Mithrill		Vision: 3	Demon: 1
+Enchanted bone+Sandstone	Vision: 1	Demon: 1
+Enchanted bone+Clay		Vision: 2	Demon: 1
+Enchanted bone+Quartzv		Vision: 2	Demon: 1
+Enchanted bone+Granite		Vision: 3	Demon: 1
+Enchanted bone+Obsidian		Vision: 2	Demon: 1	Goblin: 2
+Enchanted bone+Moonstone	Vision: 3	Demon: 1	Human: 2
+Enchanted bone+Straw		Vision: 1	Demon: 1
+Enchanted bone+Cane		Vision: 2	Demon: 1
+Enchanted bone+Wicker		Vision: 2	Demon: 1
+Enchanted bone+Nimblewood	Vision: 3	Demon: 1
+
+Dragon bone+Wood			Vision: 1	Demon: 2
+Dragon bone+Elven wood		Vision: 1	Demon: 2
+Dragon bone+Dark wood		Vision: 1	Demon: 2
+Dragon bone+Dryad wood		Vision: 2	Demon: 2
+Dragon bone+Ancient wood	Vision: 3	Demon: 2
+Dragon bone+Iron			Vision: 1	Demon: 2
+Dragon bone+Gold			Vision: 1	Demon: 2	Dwarf: 1
+Dragon bone+Steel			Vision: 1	Demon: 2	Orc: 1
+Dragon bone+Silver			Vision: 3	Demon: 2
+Dragon bone+Mithrill		Vision: 3	Demon: 2
+Dragon bone+Sandstone		Vision: 1	Demon: 2
+Dragon bone+Clay			Vision: 2	Demon: 2
+Dragon bone+Quartz		Vision: 2	Demon: 2
+Dragon bone+Granite		Vision: 3	Demon: 2
+Dragon bone+Obsidian		Vision: 2	Demon: 2	Goblin: 2
+Dragon bone+Moonstone		Vision: 3	Demon: 2	Human: 2
+Dragon bone+Straw			Vision: 1	Demon: 2
+Dragon bone+Cane			Vision: 2	Demon: 2
+Dragon bone+Wicker		Vision: 2	Demon: 2
+Dragon bone+Nimblewood		Vision: 3	Demon: 2

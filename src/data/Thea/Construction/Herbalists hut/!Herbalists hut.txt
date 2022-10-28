@@ -1,0 +1,89 @@
+Wood+Wood				Craft: 1
+Wood+Elven wood			Craft: 1
+Wood+Dark wood			Craft: 1
+Wood+Dryad wood			Craft: 2
+Wood+Ancient wood			Craft: 3
+Wood+Straw				Craft: 1
+Wood+Cane				Craft: 2
+Wood+Wicker			Craft: 2
+Wood+Nimblewood			Craft: 3
+
+Elven wood+Wood			Craft: 1
+Elven wood+Elven wood		Craft: 2	Elf: 1
+Elven wood+Dark wood		Craft: 2
+Elven wood+Dryad wood		Craft: 3
+Elven wood+Ancient wood		Craft: 3
+Elven wood+Straw			Craft: 1
+Elven wood+Cane			Craft: 2
+Elven wood+Wicker			Craft: 2
+Elven wood+Nimblewood		Craft: 3
+
+Dark wood+Wood			Craft: 1
+Dark wood+Elven wood		Craft: 2
+Dark wood+Dark wood		Craft: 2	Goblin: 1
+Dark wood+Dryad wood		Craft: 3
+Dark wood+Ancient wood		Craft: 3
+Dark wood+Straw			Craft: 1
+Dark wood+Cane			Craft: 2
+Dark wood+Wicker			Craft: 2
+Dark wood+Nimblewood		Craft: 3
+
+Dryad wood+Wood			Craft: 2
+Dryad wood+Elven wood		Craft: 3
+Dryad wood+Dark wood		Craft: 3
+Dryad wood+Dryad wood		Craft: 3
+Dryad wood+Ancient wood		Craft: 4
+Dryad wood+Straw			Craft: 2
+Dryad wood+Cane			Craft: 3
+Dryad wood+Wicker			Craft: 3
+Dryad wood+Nimblewood		Craft: 4
+
+Ancient wood+Wood			Craft: 3
+Ancient wood+Elven wood		Craft: 3
+Ancient wood+Dark wood		Craft: 3
+Ancient wood+Dryad wood		Craft: 4
+Ancient wood+Ancient wood	Craft: 5
+Ancient wood+Straw		Craft: 3
+Ancient wood+Cane			Craft: 4
+Ancient wood+Wicker		Craft: 4
+Ancient wood+Nimblewood		Craft: 5
+
+Straw+Wood				Craft: 1
+Straw+Elven wood			Craft: 1
+Straw+Dark wood			Craft: 1
+Straw+Dryad wood			Craft: 2
+Straw+Ancient wood		Craft: 3
+Straw+Straw				Craft: 1
+Straw+Cane				Craft: 2
+Straw+Wicker			Craft: 2
+Straw+Nimblewood			Craft: 3
+
+Cane+Wood				Craft: 2
+Cane+Elven wood			Craft: 2
+Cane+Dark wood			Craft: 2
+Cane+Dryad wood			Craft: 3
+Cane+Ancient wood			Craft: 4
+Cane+Straw				Craft: 2
+Cane+Cane				Craft: 3
+Cane+Wicker			Craft: 3
+Cane+Nimblewood			Craft: 4
+
+Wicker+Wood			Craft: 2
+Wicker+Elven wood			Craft: 2
+Wicker+Dark wood			Craft: 2
+Wicker+Dryad wood			Craft: 3
+Wicker+Ancient wood		Craft: 4
+Wicker+Straw			Craft: 2
+Wicker+Cane			Craft: 3
+Wicker+Wicker			Craft: 2
+Wicker+Nimblewood			Craft: 3
+
+Nimblewood+Wood			Craft: 3
+Nimblewood+Elven wood		Craft: 3
+Nimblewood+Dark wood		Craft: 3
+Nimblewood+Dryad wood		Craft: 4
+Nimblewood+Ancient wood		Craft: 5
+Nimblewood+Straw			Craft: 3
+Nimblewood+Cane			Craft: 4
+Nimblewood+Wicker			Craft: 3
+Nimblewood+Nimblewood		Craft: 5

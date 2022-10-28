@@ -1,0 +1,314 @@
+Wood+Wood				Damage: 1
+Wood+Elven wood			Damage: 1
+Wood+Dark wood			Damage: 1
+Wood+Dryad wood			Damage: 2
+Wood+Ancient wood			Damage: 3
+Wood+Iron				Damage: 1
+Wood+Gold				Damage: 1	Dwarf: 1
+Wood+Steel				Damage: 1	Orc: 1
+Wood+Silver				Damage: 3
+Wood+Mithrill			Damage: 3
+Wood+Sandstone			Damage: 1
+Wood+Clay				Damage: 2
+Wood+Quartz			Damage: 2
+Wood+Granite			Damage: 3
+Wood+Obsidian			Damage: 2	Goblin: 2
+Wood+Moonstone			Damage: 3	Human: 2
+Wood+Straw				Damage: 1
+Wood+Cane				Damage: 2
+Wood+Wicker			Damage: 2
+Wood+Nimblewood			Damage: 3
+
+Elven wood+Wood			Damage: 2	Elf: 1
+Elven wood+Elven wood		Damage: 2	Elf: 1
+Elven wood+Dark wood		Damage: 2	Elf: 1
+Elven wood+Dryad wood		Damage: 3	Elf: 1
+Elven wood+Ancient wood		Damage: 4	Elf: 1
+Elven wood+Iron			Damage: 2	Elf: 1
+Elven wood+Gold			Damage: 2	Elf: 1	Dwarf: 1
+Elven wood+Steel			Damage: 2	Elf: 1	Orc: 1
+Elven wood+Silver			Damage: 3	Elf: 1
+Elven wood+Mithrill			Damage: 4	Elf: 1
+Elven wood+Sandstone		Damage: 2	Elf: 1
+Elven wood+Clay			Damage: 3	Elf: 1
+Elven wood+Quartz			Damage: 3	Elf: 1
+Elven wood+Granite			Damage: 3	Elf: 1
+Elven wood+Obsidian		Damage: 3	Elf: 1	Goblin: 2
+Elven wood+Moonstone		Damage: 4	Elf: 1	Human: 2
+Elven wood+Straw			Damage: 2	Elf: 1
+Elven wood+Cane			Damage: 3	Elf: 1
+Elven wood+Wicker			Damage: 2	Elf: 1
+Elven wood+Nimblewood		Damage: 4	Elf: 1
+
+Dark wood+Wood			Damage: 2	Goblin: 1
+Dark wood+Elven wood		Damage: 2	Goblin: 1
+Dark wood+Dark wood		Damage: 2	Goblin: 
+Dark wood+Dryad wood		Damage: 3	Goblin: 1
+Dark wood+Ancient wood		Damage: 4	Goblin: 1
+Dark wood+Iron			Damage: 2	Goblin: 1
+Dark wood+Gold			Damage: 2	Goblin: 1	Dwarf: 1
+Dark wood+Steel			Damage: 2	Goblin: 1	Orc: 1
+Dark wood+Silver			Damage: 3	Goblin: 1
+Dark wood+Mithrill			Damage: 4	Goblin: 1
+Dark wood+Sandstone		Damage: 2	Goblin: 1
+Dark wood+Clay			Damage: 3	Goblin: 1
+Dark wood+Quartz			Damage: 3	Goblin: 1
+Dark wood+Granite			Damage: 3	Goblin: 1
+Dark wood+Obsidian		Damage: 3	Goblin: 3
+Dark wood+Moonstone		Damage: 4	Goblin: 1	Human: 2
+Dark wood+Straw			Damage: 2	Goblin: 1
+Dark wood+Cane			Damage: 3	Goblin: 1
+Dark wood+Wicker			Damage: 2	Goblin: 1
+Dark wood+Nimblewood		Damage: 4	Goblin: 1
+
+Dryad wood+Wood			Damage: 3
+Dryad wood+Elven wood		Damage: 3
+Dryad wood+Dark wood		Damage: 3
+Dryad wood+Dryad wood		Damage: 4
+Dryad wood+Ancient wood		Damage: 5
+Dryad wood+Iron			Damage: 3
+Dryad wood+Gold			Damage: 3	Dwarf: 1
+Dryad wood+Steel			Damage: 3	Orc: 1
+Dryad wood+Silver			Damage: 4
+Dryad wood+Mithrill			Damage: 5
+Dryad wood+Sandstone		Damage: 3
+Dryad wood+Clay			Damage: 4
+Dryad wood+Quartz			Damage: 4
+Dryad wood+Granite		Damage: 4
+Dryad wood+Obsidian		Damage: 4	Goblin: 2
+Dryad wood+Moonstone		Damage: 5	Human: 2
+Dryad wood+Straw			Damage: 3
+Dryad wood+Cane			Damage: 3
+Dryad wood+Wicker			Damage: 3
+Dryad wood+Nimblewood		Damage: 4
+
+Ancient wood+Wood			Damage: 4
+Ancient wood+Elven wood		Damage: 5
+Ancient wood+Dark wood		Damage: 5
+Ancient wood+Dryad wood		Damage: 5
+Ancient wood+Ancient wood	Damage: 6
+Ancient wood+Iron			Damage: 4
+Ancient wood+Gold			Damage: 5	Dwarf: 1
+Ancient wood+Steel			Damage: 5	Orc: 1
+Ancient wood+Silver		Damage: 6
+Ancient wood+Mithrill		Damage: 6
+Ancient wood+Sandstone		Damage: 5
+Ancient wood+Clay			Damage: 5
+Ancient wood+Quartz		Damage: 5
+Ancient wood+Granite		Damage: 6
+Ancient wood+Obsidian		Damage: 5	Goblin: 2
+Ancient wood+Moonstone		Damage: 6	Human: 2
+Ancient wood+Straw		Damage: 4
+Ancient wood+Cane			Damage: 5
+Ancient wood+Wicker		Damage: 5
+Ancient wood+Nimblewood		Damage: 6
+			
+Sandstone+Wood			Damage: 2	Beast: 1
+Sandstone+Elven wood		Damage: 2	Beast: 1
+Sandstone+Dark wood		Damage: 2	Beast: 1
+Sandstone+Dryad wood		Damage: 3	Beast: 1
+Sandstone+Ancient wood		Damage: 4	Beast: 1
+Sandstone+Iron			Damage: 2	Beast: 1
+Sandstone+Gold			Damage: 2	Beast: 1	Dwarf: 1
+Sandstone+Steel			Damage: 2	Beast: 1	Orc: 1
+Sandstone+Silver			Damage: 3	Beast: 1
+Sandstone+Mithrill			Damage: 4	Beast: 1
+Sandstone+Sandstone		Damage: 2	Beast: 1
+Sandstone+Clay			Damage: 3	Beast: 1
+Sandstone+Quartz			Damage: 3	Beast: 1
+Sandstone+Granite			Damage: 3	Beast: 1
+Sandstone+Obsidian		Damage: 3	Beast: 1	Goblin: 2
+Sandstone+Moonstone		Damage: 4	Beast: 1	Human: 2
+Sandstone+Straw			Damage: 2	Beast: 1
+Sandstone+Cane			Damage: 3	Beast: 1
+Sandstone+Wicker			Damage: 2	Beast: 1
+Sandstone+Nimblewood		Damage: 4	Beast: 1
+		 
+Clay+Wood				Damage: 3	Beast: 1
+Clay+Elven wood			Damage: 3	Beast: 1
+Clay+Dark wood			Damage: 3	Beast: 1
+Clay+Dryad wood			Damage: 4	Beast: 1
+Clay+Ancient wood			Damage: 5	Beast: 1
+Clay+Iron				Damage: 3	Beast: 1
+Clay+Gold				Damage: 3	Beast: 1	Dwarf: 1
+Clay+Steel				Damage: 3	Beast: 1	Orc: 1
+Clay+Silver				Damage: 4	Beast: 1
+Clay+Mithrill				Damage: 5	Beast: 1
+Clay+Sandstone			Damage: 3	Beast: 1
+Clay+Clay				Damage: 4	Beast: 1
+Clay+Quartz				Damage: 4	Beast: 1
+Clay+Granite				Damage: 4	Beast: 1
+Clay+Obsidian			Damage: 4	Beast: 1	Goblin: 2
+Clay+Moonstone			Damage: 5	Beast: 1	Human: 2
+Clay+Straw				Damage: 3	Beast: 1
+Clay+Cane				Damage: 3	Beast: 1
+Clay+Wicker				Damage: 3	Beast: 1
+Clay+Nimblewood			Damage: 4	Beast: 1
+			
+Quartz+Wood			Damage: 3
+Quartz+Elven wood			Damage: 3
+Quartz+Dark wood			Damage: 3
+Quartz+Dryad wood			Damage: 4
+Quartz+Ancient wood		Damage: 5
+Quartz+Iron				Damage: 5
+Quartz+Gold				Damage: 3	Dwarf: 1
+Quartz+Steel				Damage: 3	Orc: 1
+Quartz+Silver			Damage: 4
+Quartz+Mithrill			Damage: 5
+Quartz+Sandstone			Damage: 3
+Quartz+Clay				Damage: 4
+Quartz+Quartz			Damage: 4
+Quartz+Granite			Damage: 4
+Quartz+Obsidian			Damage: 4	Goblin: 2
+Quartz+Moonstone			Damage: 5	Human: 2
+Quartz+Straw			Damage: 3
+Quartz+Cane				Damage: 3
+Quartz+Wicker			Damage: 3
+Quartz+Nimblewood			Damage: 4
+		
+Granite+Wood			Damage: 3
+Granite+Elven wood			Damage: 4
+Granite+Dark wood			Damage: 4
+Granite+Dryad wood		Damage: 4
+Granite+Ancient wood		Damage: 4
+Granite+Iron				Damage: 4
+Granite+Gold				Damage: 4	Dwarf: 1
+Granite+Steel			Damage: 4	Orc: 1
+Granite+Silver			Damage: 5
+Granite+Mithrill			Damage: 5
+Granite+Sandstone			Damage: 4
+Granite+Clay				Damage: 4
+Granite+Quartz			Damage: 4
+Granite+Granite			Damage: 5
+Granite+Obsidian			Damage: 4	Goblin: 2
+Granite+Moonstone			Damage: 5	Human: 2
+Granite+Straw			Damage: 3
+Granite+Cane			Damage: 4
+Granite+Wicker			Damage: 4
+Granite+Nimblewood		Damage: 5
+			
+Obsidian+Wood			Damage: 3	Goblin: 3
+Obsidian+Elven wood		Damage: 4	Goblin: 3
+Obsidian+Dark wood		Damage: 3	Goblin: 3
+Obsidian+Dryad wood		Damage: 4	Goblin: 3
+Obsidian+Ancient wood		Damage: 5	Goblin: 3
+Obsidian+Iron			Damage: 3	Goblin: 3
+Obsidian+Gold			Damage: 3	Goblin: 3	Dwarf: 1
+Obsidian+Steel			Damage: 3	Goblin: 3	Orc: 1
+Obsidian+Silver			Damage: 4	Goblin: 3
+Obsidian+Mithrill			Damage: 5	Goblin: 3
+Obsidian+Sandstone		Damage: 3	Goblin: 3	
+Obsidian+Clay			Damage: 4	Goblin: 3		
+Obsidian+Quartz			Damage: 4	Goblin: 3
+Obsidian+Granite			Damage: 4	Goblin: 3
+Obsidian+Obsidian			Damage: 4	Goblin: 5
+Obsidian+Moonstone		Damage: 5	Goblin: 3	Human: 2
+Obsidian+Straw			Damage: 3	Goblin: 3
+Obsidian+Cane			Damage: 3	Goblin: 3
+Obsidian+Wicker			Damage: 3	Goblin: 3
+Obsidian+Nimblewood		Damage: 4	Goblin: 3
+			
+Moonstone+Wood			Damage: 4	Human: 2			
+Moonstone+Elven wood		Damage: 5	Human: 2
+Moonstone+Dark wood		Damage: 5	Human: 2
+Moonstone+Dryad wood		Damage: 5	Human: 2
+Moonstone+Ancient wood		Damage: 6	Human: 2
+Moonstone+Iron			Damage: 4	Human: 2
+Moonstone+Gold			Damage: 5	Human: 2	Dwarf: 1
+Moonstone+Steel			Damage: 5	Human: 2	Orc: 1
+Moonstone+Silver			Damage: 6	Human: 2
+Moonstone+Mithrill			Damage: 6	Human: 2
+Moonstone+Sandstone		Damage: 5	Human: 2
+Moonstone+Clay			Damage: 5	Human: 2
+Moonstone+Quartz			Damage: 5	Human: 2
+Moonstone+Granite			Damage: 6	Human: 2
+Moonstone+Obsidian		Damage: 5	Human: 2	Goblin: 2
+Moonstone+Moonstone		Damage: 6	Human: 4
+Moonstone+Straw			Damage: 4	Human: 2
+Moonstone+Cane			Damage: 5	Human: 2
+Moonstone+Wicker			Damage: 5	Human: 2
+Moonstone+Nimblewood		Damage: 6	Human: 2
+		
+Bone+Wood				Damage: 1
+Bone+Elven wood			Damage: 1
+Bone+Dark wood			Damage: 1
+Bone+Dryad wood			Damage: 2
+Bone+Ancient wood			Damage: 3
+Bone+Iron				Damage: 1
+Bone+Gold				Damage: 1	Dwarf: 1
+Bone+Steel				Damage: 1	Orc: 1
+Bone+Silver				Damage: 3
+Bone+Mithrill				Damage: 3
+Bone+Sandstone			Damage: 1
+Bone+Clay				Damage: 2
+Bone+Quartz				Damage: 2
+Bone+Granite			Damage: 3
+Bone+Obsidian			Damage: 2	Goblin: 2
+Bone+Moonstone			Damage: 3	Human: 2
+Bone+Straw				Damage: 1
+Bone+Cane				Damage: 2
+Bone+Wicker				Damage: 2
+Bone+Nimblewood			Damage: 3
+
+Monster bone+Wood		Damage: 1	Beast: 5
+Monster bone+Elven wood		Damage: 1	Beast: 5
+Monster bone+Dark wood		Damage: 1	Beast: 5
+Monster bone+Dryad woodv	Damage: 2	Beast: 5
+Monster bone+Ancient wood	Damage: 3	Beast: 5
+Monster bone+Iron			Damage: 1	Beast: 5
+Monster bone+Gold			Damage: 1	Beast: 5	Dwarf: 1
+Monster bone+Steel			Damage: 1	Beast: 5	Orc: 1
+Monster bone+Silver		Damage: 3	Beast: 5
+Monster bone+Mithrillv		Damage: 3	Beast: 5
+Monster bone+Sandstone		Damage: 1	Beast: 5
+Monster bone+Clay			Damage: 2	Beast: 5
+Monster bone+Quartz		Damage: 2	Beast: 5
+Monster bone+Granite		Damage: 3	Beast: 5
+Monster bone+Obsidian		Damage: 2	Beast: 5	Goblin: 2
+Monster bone+Moonstone		Damage: 3	Beast: 5	Human: 2
+Monster bone+Straw		Damage: 1	Beast: 5
+Monster bone+Cane			Damage: 2	Beast: 5
+Monster bone+Wicker		Damage: 2	Beast: 5
+Monster bone+Nimblewood		Damage: 3	Beast: 5
+
+Enchanted bone+Wood		Damage: 1	Demon: 2
+Enchanted bone+Elven wood	Damage: 1	Demon: 2
+Enchanted bone+Dark wood	Damage: 1	Demon: 2
+Enchanted bone+Dryad wood	Damage: 2	Demon: 2
+Enchanted bone+Ancient wood	Damage: 3	Demon: 2
+Enchanted bone+Iron		Damage: 1	Demon: 2
+Enchanted bone+Gold		Damage: 1	Demon: 2	Dwarf: 1
+Enchanted bone+Steel		Damage: 1	Demon: 2	Orc: 1
+Enchanted bone+Silver		Damage: 3	Demon: 2
+Enchanted bone+Mithrill		Damage: 3	Demon: 2
+Enchanted bone+Sandstone	Damage: 1	Demon: 2
+Enchanted bone+Clay		Damage: 2	Demon: 2
+Enchanted bone+Quartzv		Damage: 2	Demon: 2
+Enchanted bone+Granite		Damage: 3	Demon: 2
+Enchanted bone+Obsidian		Damage: 2	Demon: 2	Goblin: 2
+Enchanted bone+Moonstone	Damage: 3	Demon: 2	Human: 2
+Enchanted bone+Straw		Damage: 1	Demon: 2
+Enchanted bone+Cane		Damage: 2	Demon: 2
+Enchanted bone+Wicker		Damage: 2	Demon: 2
+Enchanted bone+Nimblewood	Damage: 3	Demon: 2
+
+Dragon bone+Wood			Damage: 1	Demon: 3
+Dragon bone+Elven wood		Damage: 1	Demon: 3
+Dragon bone+Dark wood		Damage: 1	Demon: 3
+Dragon bone+Dryad wood		Damage: 2	Demon: 3
+Dragon bone+Ancient wood	Damage: 3	Demon: 3
+Dragon bone+Iron			Damage: 1	Demon: 3
+Dragon bone+Gold			Damage: 1	Demon: 3	Dwarf: 1
+Dragon bone+Steel			Damage: 1	Demon: 3	Orc: 1
+Dragon bone+Silver			Damage: 3	Demon: 3
+Dragon bone+Mithrill		Damage: 3	Demon: 3
+Dragon bone+Sandstone		Damage: 1	Demon: 3
+Dragon bone+Clay			Damage: 2	Demon: 3
+Dragon bone+Quartz		Damage: 2	Demon: 3
+Dragon bone+Granite		Damage: 3	Demon: 3
+Dragon bone+Obsidian		Damage: 2	Demon: 3	Goblin: 2
+Dragon bone+Moonstone		Damage: 3	Demon: 3	Human: 2
+Dragon bone+Straw			Damage: 1	Demon: 3
+Dragon bone+Cane			Damage: 2	Demon: 3
+Dragon bone+Wicker		Damage: 2	Demon: 3
+Dragon bone+Nimblewood		Damage: 3	Demon: 3

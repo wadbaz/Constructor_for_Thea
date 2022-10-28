@@ -1,0 +1,314 @@
+Wood+Wood				Craft: 1
+Wood+Elven wood			Craft: 1
+Wood+Dark wood			Craft: 1
+Wood+Dryad wood			Craft: 2
+Wood+Ancient wood			Craft: 3
+Wood+Iron				Craft: 1
+Wood+Gold				Craft: 1	Dwarf: 1
+Wood+Steel				Craft: 1	Orc: 1
+Wood+Silver				Craft: 3
+Wood+Mithrill			Craft: 3
+Wood+Sandstone			Craft: 1
+Wood+Clay				Craft: 2
+Wood+Quartz			Craft: 2
+Wood+Granite			Craft: 3
+Wood+Obsidian			Craft: 2	Goblin: 2
+Wood+Moonstone			Craft: 3	Human: 2
+Wood+Straw				Craft: 1
+Wood+Cane				Craft: 2
+Wood+Wicker			Craft: 2
+Wood+Nimblewood			Craft: 3
+
+Elven wood+Wood			Craft: 1
+Elven wood+Elven wood		Craft: 2	Elf: 1
+Elven wood+Dark wood		Craft: 2
+Elven wood+Dryad wood		Craft: 3
+Elven wood+Ancient wood		Craft: 3
+Elven wood+Iron			Craft: 1
+Elven wood+Gold			Craft: 2	Dwarf: 1
+Elven wood+Steel			Craft: 2	Orc: 1
+Elven wood+Silver			Craft: 3
+Elven wood+Mithrill			Craft: 3
+Elven wood+Sandstone		Craft: 2
+Elven wood+Clay			Craft: 3
+Elven wood+Quartz			Craft: 3
+Elven wood+Granite			Craft: 3
+Elven wood+Obsidian		Craft: 3	Goblin: 2
+Elven wood+Moonstone		Craft: 3	Human: 2
+Elven wood+Straw			Craft: 1
+Elven wood+Cane			Craft: 2
+Elven wood+Wicker			Craft: 2
+Elven wood+Nimblewood		Craft: 3
+
+Dark wood+Wood			Craft: 1
+Dark wood+Elven wood		Craft: 2
+Dark wood+Dark wood		Craft: 2	Goblin: 1
+Dark wood+Dryad wood		Craft: 3
+Dark wood+Ancient wood		Craft: 3
+Dark wood+Iron			Craft: 1
+Dark wood+Gold			Craft: 2	Dwarf: 1
+Dark wood+Steel			Craft: 2	Orc: 1
+Dark wood+Silver			Craft: 3
+Dark wood+Mithrill			Craft: 3
+Dark wood+Sandstone		Craft: 2
+Dark wood+Clay			Craft: 3
+Dark wood+Quartz			Craft: 3
+Dark wood+Granite			Craft: 3
+Dark wood+Obsidian		Craft: 3	Goblin: 2
+Dark wood+Moonstone		Craft: 3	Human: 2
+Dark wood+Straw			Craft: 1
+Dark wood+Cane			Craft: 2
+Dark wood+Wicker			Craft: 2
+Dark wood+Nimblewood		Craft: 3
+
+Dryad wood+Wood			Craft: 2
+Dryad wood+Elven wood		Craft: 3
+Dryad wood+Dark wood		Craft: 3
+Dryad wood+Dryad wood		Craft: 3
+Dryad wood+Ancient wood		Craft: 4
+Dryad wood+Iron			Craft: 2
+Dryad wood+Gold			Craft: 3	Dwarf: 1
+Dryad wood+Steel			Craft: 3	Orc: 1
+Dryad wood+Silver			Craft: 3
+Dryad wood+Mithrill			Craft: 4
+Dryad wood+Sandstone		Craft: 3
+Dryad wood+Clay			Craft: 3
+Dryad wood+Quartz			Craft: 3
+Dryad wood+Granite		Craft: 3
+Dryad wood+Obsidian		Craft: 3	Goblin: 2
+Dryad wood+Moonstone		Craft: 4	Human: 2
+Dryad wood+Straw			Craft: 2
+Dryad wood+Cane			Craft: 3
+Dryad wood+Wicker			Craft: 3
+Dryad wood+Nimblewood		Craft: 4
+
+Ancient wood+Wood			Craft: 3
+Ancient wood+Elven wood		Craft: 3
+Ancient wood+Dark wood		Craft: 3
+Ancient wood+Dryad wood		Craft: 4
+Ancient wood+Ancient wood	Craft: 5
+Ancient wood+Iron			Craft: 3
+Ancient wood+Gold			Craft: 3	Dwarf: 1
+Ancient wood+Steel			Craft: 3	Orc: 1
+Ancient wood+Silver		Craft: 5
+Ancient wood+Mithrill		Craft: 5
+Ancient wood+Sandstone		Craft: 3
+Ancient wood+Clay			Craft: 4
+Ancient wood+Quartz		Craft: 4
+Ancient wood+Granite		Craft: 5
+Ancient wood+Obsidian		Craft: 4	Goblin: 2
+Ancient wood+Moonstone		Craft: 5	Human: 2
+Ancient wood+Straw		Craft: 3
+Ancient wood+Cane			Craft: 4
+Ancient wood+Wicker		Craft: 4
+Ancient wood+Nimblewood		Craft: 5
+			
+Sandstone+Wood			Craft: 1
+Sandstone+Elven wood		Craft: 1
+Sandstone+Dark wood		Craft: 2
+Sandstone+Dryad wood		Craft: 3
+Sandstone+Ancient wood		Craft: 3
+Sandstone+Iron			Craft: 1
+Sandstone+Gold			Craft: 2	Dwarf: 1
+Sandstone+Steel			Craft: 2	Orc: 1
+Sandstone+Silver			Craft: 3
+Sandstone+Mithrill			Craft: 3
+Sandstone+Sandstone		Craft: 2	Beast: 1
+Sandstone+Clay			Craft: 3	Beast: 1
+Sandstone+Quartz			Craft: 3
+Sandstone+Granite			Craft: 3
+Sandstone+Obsidian		Craft: 3	Goblin: 2
+Sandstone+Moonstone		Craft: 3	Human: 2
+Sandstone+Straw			Craft: 1
+Sandstone+Cane			Craft: 2
+Sandstone+Wicker			Craft: 2
+Sandstone+Nimblewood		Craft: 3
+		 
+Clay+Wood				Craft: 2
+Clay+Elven wood			Craft: 3
+Clay+Dark wood			Craft: 3
+Clay+Dryad wood			Craft: 3
+Clay+Ancient wood			Craft: 4
+Clay+Iron				Craft: 2
+Clay+Gold				Craft: 3	Dwarf: 1
+Clay+Steel				Craft: 3	Orc: 1
+Clay+Silver				Craft: 3
+Clay+Mithrill				Craft: 4
+Clay+Sandstone			Craft: 3	Beast: 1
+Clay+Clay				Craft: 3	Beast: 1
+Clay+Quartz				Craft: 3
+Clay+Granite				Craft: 3
+Clay+Obsidian			Craft: 3	Goblin: 2
+Clay+Moonstone			Craft: 4	Human: 2
+Clay+Straw				Craft: 2
+Clay+Cane				Craft: 3
+Clay+Wicker				Craft: 3
+Clay+Nimblewood			Craft: 4
+			
+Quartz+Wood			Craft: 2
+Quartz+Elven wood			Craft: 3
+Quartz+Dark wood			Craft: 3
+Quartz+Dryad wood			Craft: 3
+Quartz+Ancient wood		Craft: 4
+Quartz+Iron				Craft: 2
+Quartz+Gold				Craft: 3	Dwarf: 1
+Quartz+Steel				Craft: 3	Orc: 1
+Quartz+Silver			Craft: 3
+Quartz+Mithrill			Craft: 4
+Quartz+Sandstone			Craft: 3
+Quartz+Clay				Craft: 3
+Quartz+Quartz			Craft: 3
+Quartz+Granite			Craft: 3
+Quartz+Obsidian			Craft: 3	Goblin: 2
+Quartz+Moonstone			Craft: 4	Human: 2
+Quartz+Straw			Craft: 2
+Quartz+Cane				Craft: 3
+Quartz+Wicker			Craft: 3
+Quartz+Nimblewood			Craft: 4
+		
+Granite+Wood			Craft: 3 
+Granite+Elven wood			Craft: 3
+Granite+Dark wood			Craft: 3
+Granite+Dryad wood		Craft: 3
+Granite+Ancient wood		Craft: 5
+Granite+Iron				Craft: 3
+Granite+Gold				Craft: 3	Dwarf: 1
+Granite+Steel			Craft: 3	Orc: 1
+Granite+Silver			Craft: 4
+Granite+Mithrill			Craft: 5
+Granite+Sandstone			Craft: 3
+Granite+Clay				Craft: 3
+Granite+Quartz			Craft: 3
+Granite+Granite			Craft: 4
+Granite+Obsidian			Craft: 3	Goblin: 2
+Granite+Moonstone			Craft: 5	Human: 2
+Granite+Straw			Craft: 3
+Granite+Cane			Craft: 3
+Granite+Wicker			Craft: 3
+Granite+Nimblewood		Craft: 4
+			
+Obsidian+Wood			Craft: 2	Goblin: 2
+Obsidian+Elven wood		Craft: 3	Goblin: 2
+Obsidian+Dark wood		Craft: 3	Goblin: 2
+Obsidian+Dryad wood		Craft: 3	Goblin: 2
+Obsidian+Ancient wood		Craft: 4	Goblin: 2
+Obsidian+Iron			Craft: 2	Goblin: 2
+Obsidian+Gold			Craft: 3	Goblin: 2	Dwarf: 1
+Obsidian+Steel			Craft: 3	Goblin: 2	Orc: 1
+Obsidian+Silver			Craft: 3	Goblin: 2
+Obsidian+Mithrill			Craft: 4	Goblin: 2
+Obsidian+Sandstone		Craft: 3	Goblin: 2	
+Obsidian+Clay			Craft: 3	Goblin: 2		
+Obsidian+Quartz			Craft: 3	Goblin: 2
+Obsidian+Granite			Craft: 3	Goblin: 2
+Obsidian+Obsidian			Craft: 3	Goblin: 4
+Obsidian+Moonstone		Craft: 4	Goblin: 2	Human: 2
+Obsidian+Straw			Craft: 2	Goblin: 2
+Obsidian+Cane			Craft: 3	Goblin: 2
+Obsidian+Wicker			Craft: 3	Goblin: 2
+Obsidian+Nimblewood		Craft: 4	Goblin: 2
+			
+Moonstone+Wood			Craft: 3	Human: 2			
+Moonstone+Elven wood		Craft: 3	Human: 2
+Moonstone+Dark wood		Craft: 3	Human: 2
+Moonstone+Dryad wood		Craft: 4	Human: 2
+Moonstone+Ancient wood		Craft: 5	Human: 2
+Moonstone+Iron			Craft: 5	Human: 2
+Moonstone+Gold			Craft: 3	Human: 2	Dwarf: 1
+Moonstone+Steel			Craft: 3	Human: 2	Orc: 1
+Moonstone+Silver			Craft: 5	Human: 2
+Moonstone+Mithrill			Craft: 5	Human: 2
+Moonstone+Sandstone		Craft: 3	Human: 2
+Moonstone+Clay			Craft: 4	Human: 2
+Moonstone+Quartz			Craft: 4	Human: 2
+Moonstone+Granite			Craft: 5	Human: 2
+Moonstone+Obsidian		Craft: 4	Human: 2	Goblin: 2
+Moonstone+Moonstone		Craft: 5	Human: 3
+Moonstone+Straw			Craft: 3	Human: 2
+Moonstone+Cane			Craft: 4	Human: 2
+Moonstone+Wicker			Craft: 4	Human: 2
+Moonstone+Nimblewood		Craft: 5	Human: 2
+		
+Bone+Wood				Craft: 1
+Bone+Elven wood			Craft: 1
+Bone+Dark wood			Craft: 1
+Bone+Dryad wood			Craft: 2
+Bone+Ancient wood			Craft: 3
+Bone+Iron				Craft: 1
+Bone+Gold				Craft: 1	Dwarf: 1
+Bone+Steel				Craft: 1	Orc: 1
+Bone+Silver				Craft: 3
+Bone+Mithrill				Craft: 3
+Bone+Sandstone			Craft: 1
+Bone+Clay				Craft: 2
+Bone+Quartz				Craft: 2
+Bone+Granite			Craft: 3
+Bone+Obsidian			Craft: 2	Goblin: 2
+Bone+Moonstone			Craft: 3	Human: 2
+Bone+Straw				Craft: 1
+Bone+Cane				Craft: 2
+Bone+Wicker				Craft: 2
+Bone+Nimblewood			Craft: 3
+
+Monster bone+Wood		Craft: 1	Beast: 3
+Monster bone+Elven wood		Craft: 1	Beast: 3
+Monster bone+Dark wood		Craft: 1	Beast: 3
+Monster bone+Dryad woodv	Craft: 2	Beast: 3
+Monster bone+Ancient wood	Craft: 3	Beast: 3
+Monster bone+Iron			Craft: 1	Beast: 3
+Monster bone+Gold			Craft: 1	Beast: 3	Dwarf: 1
+Monster bone+Steel			Craft: 1	Beast: 3	Orc: 1
+Monster bone+Silver		Craft: 3	Beast: 3
+Monster bone+Mithrillv		Craft: 3	Beast: 3
+Monster bone+Sandstone		Craft: 1	Beast: 4
+Monster bone+Clay			Craft: 2	Beast: 4
+Monster bone+Quartz		Craft: 2	Beast: 3
+Monster bone+Granite		Craft: 3	Beast: 3
+Monster bone+Obsidian		Craft: 2	Beast: 3	Goblin: 2
+Monster bone+Moonstone		Craft: 3	Beast: 3	Human: 2
+Monster bone+Straw		Craft: 1	Beast: 3
+Monster bone+Cane			Craft: 2	Beast: 3
+Monster bone+Wicker		Craft: 2	Beast: 3
+Monster bone+Nimblewood		Craft: 3	Beast: 3
+
+Enchanted bone+Wood		Craft: 1	Demon: 1
+Enchanted bone+Elven wood	Craft: 1	Demon: 1
+Enchanted bone+Dark wood	Craft: 1	Demon: 1
+Enchanted bone+Dryad wood	Craft: 2	Demon: 1
+Enchanted bone+Ancient wood	Craft: 3	Demon: 1
+Enchanted bone+Iron		Craft: 1	Demon: 1
+Enchanted bone+Gold		Craft: 1	Demon: 1	Dwarf: 1
+Enchanted bone+Steel		Craft: 1	Demon: 1	Orc: 1
+Enchanted bone+Silver		Craft: 3	Demon: 1
+Enchanted bone+Mithrill		Craft: 3	Demon: 1
+Enchanted bone+Sandstone	Craft: 1	Demon: 1
+Enchanted bone+Clay		Craft: 2	Demon: 1
+Enchanted bone+Quartzv		Craft: 2	Demon: 1
+Enchanted bone+Granite		Craft: 3	Demon: 1
+Enchanted bone+Obsidian		Craft: 2	Demon: 1	Goblin: 2
+Enchanted bone+Moonstone	Craft: 3	Demon: 1	Human: 2
+Enchanted bone+Straw		Craft: 1	Demon: 1
+Enchanted bone+Cane		Craft: 2	Demon: 1
+Enchanted bone+Wicker		Craft: 2	Demon: 1
+Enchanted bone+Nimblewood	Craft: 3	Demon: 1
+
+Dragon bone+Wood			Craft: 1	Demon: 2
+Dragon bone+Elven wood		Craft: 1	Demon: 2
+Dragon bone+Dark wood		Craft: 1	Demon: 2
+Dragon bone+Dryad wood		Craft: 2	Demon: 2
+Dragon bone+Ancient wood	Craft: 3	Demon: 2
+Dragon bone+Iron			Craft: 1	Demon: 2
+Dragon bone+Gold			Craft: 1	Demon: 2	Dwarf: 1
+Dragon bone+Steel			Craft: 1	Demon: 2	Orc: 1
+Dragon bone+Silver			Craft: 3	Demon: 2
+Dragon bone+Mithrill		Craft: 3	Demon: 2
+Dragon bone+Sandstone		Craft: 1	Demon: 2
+Dragon bone+Clay			Craft: 2	Demon: 2
+Dragon bone+Quartz		Craft: 2	Demon: 2
+Dragon bone+Granite		Craft: 3	Demon: 2
+Dragon bone+Obsidian		Craft: 2	Demon: 2	Goblin: 2
+Dragon bone+Moonstone		Craft: 3	Demon: 2	Human: 2
+Dragon bone+Straw			Craft: 1	Demon: 2
+Dragon bone+Cane			Craft: 2	Demon: 2
+Dragon bone+Wicker		Craft: 2	Demon: 2
+Dragon bone+Nimblewood		Craft: 3	Demon: 2

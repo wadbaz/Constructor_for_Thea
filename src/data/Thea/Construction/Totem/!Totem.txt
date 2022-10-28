@@ -1,0 +1,219 @@
+Wood+Wood				Shielding: 1
+Wood+Elven wood			Shielding: 2	Elf: 1
+Wood+Dark wood			Shielding: 2	Goblin: 1
+Wood+Dryad wood			Shielding: 3
+Wood+Ancient wood			Shielding: 4
+Wood+Sandstone			Shielding: 2	Beast: 1
+Wood+Clay				Shielding: 3	Beast: 1
+Wood+Quartz			Shielding: 3
+Wood+Granite			Shielding: 3
+Wood+Obsidian			Shielding: 3	Goblin: 3
+Wood+Moonstone			Shielding: 4	Human: 2
+Wood+Straw				Shielding: 1
+Wood+Cane				Shielding: 3
+Wood+Wicker			Shielding: 2
+Wood+Nimblewood			Shielding: 4
+Wood+Bone				Shielding: 1
+Wood+Monster bone		Shielding: 1	Beast: 5
+Wood+Enchanted bone		Shielding: 1	Demon: 2
+Wood+Dragon bone			Shielding: 1	Demon: 3
+
+Elven wood+Wood			Shielding: 2	Elf: 1
+Elven wood+Elven wood		Shielding: 3	Elf: 2
+Elven wood+Dark wood		Shielding: 3	Elf: 1	Goblin: 1
+Elven wood+Dryad wood		Shielding: 3	Elf: 1
+Elven wood+Ancient wood		Shielding: 5	Elf: 1
+Elven wood+Sandstone		Shielding: 3	Elf: 1	Beast: 1
+Elven wood+Clay			Shielding: 3	Elf: 1	Beast: 1
+Elven wood+Quartz			Shielding: 3	Elf: 1
+Elven wood+Granite			Shielding: 4	Elf: 1
+Elven wood+Obsidian		Shielding: 3	Elf: 1	Goblin: 3
+Elven wood+Moonstone		Shielding: 5	Elf: 1	Human: 2
+Elven wood+Straw			Shielding: 2	Elf: 1
+Elven wood+Cane			Shielding: 3	Elf: 1
+Elven wood+Wicker			Shielding: 3	Elf: 1
+Elven wood+Nimblewood		Shielding: 5	Elf: 1
+Elven wood+Bone			Shielding: 2	Elf: 1
+Elven wood+Monster bone		Shielding: 2	Elf: 1	Beast: 5
+Elven wood+Enchanted bone	Shielding: 2	Elf: 1	Demon: 2
+Elven wood+Dragon bone		Shielding: 2	Elf: 1	Demon: 3
+
+Dark wood+Wood			Shielding: 2	Goblin: 1
+Dark wood+Elven wood		Shielding: 3	Goblin: 1	Elf: 1
+Dark wood+Dark wood		Shielding: 3	Goblin: 2
+Dark wood+Dryad wood		Shielding: 3	Goblin: 1
+Dark wood+Ancient wood		Shielding: 5	Goblin: 1
+Dark wood+Sandstone		Shielding: 3	Goblin: 1	Beast: 1
+Dark wood+Clay			Shielding: 3	Goblin: 1	Beast: 1
+Dark wood+Quartz			Shielding: 3	Goblin: 1
+Dark wood+Granite			Shielding: 4	Goblin: 1
+Dark wood+Obsidian		Shielding: 3	Goblin: 4
+Dark wood+Moonstone		Shielding: 5	Goblin: 1	Human: 2
+Dark wood+Straw			Shielding: 2	Goblin: 1
+Dark wood+Cane			Shielding: 3	Goblin: 1
+Dark wood+Wicker			Shielding: 3	Goblin: 1
+Dark wood+Nimblewood		Shielding: 5	Goblin: 1
+Dark wood+Bone			Shielding: 2	Goblin: 1
+Dark wood+Monster bone		Shielding: 2	Goblin: 1	Beast: 5
+Dark wood+Enchanted bone	Shielding: 2	Goblin: 1	Demon: 2
+Dark wood+Dragon bone		Shielding: 2	Goblin: 1	Demon: 3
+
+Dryad wood+Wood			Shielding: 3
+Dryad wood+Elven wood		Shielding: 3	Elf: 1
+Dryad wood+Dark wood		Shielding: 3	Goblin: 1
+Dryad wood+Dryad wood		Shielding: 4
+Dryad wood+Ancient wood		Shielding: 6
+Dryad wood+Sandstone		Shielding: 3	Beast: 1
+Dryad wood+Clay			Shielding: 4	Beast: 1
+Dryad wood+Quartz			Shielding: 4
+Dryad wood+Granite		Shielding: 5
+Dryad wood+Obsidian		Shielding: 4	Goblin: 3
+Dryad wood+Moonstone		Shielding: 6	Human: 2
+Dryad wood+Straw			Shielding: 3
+Dryad wood+Cane			Shielding: 4
+Dryad wood+Wicker			Shielding: 4
+Dryad wood+Nimblewood		Shielding: 6
+Dryad wood+Bone			Shielding: 3
+Dryad wood+Monster bone		Shielding: 3	Beast: 5
+Dryad wood+Enchanted bone	Shielding: 3	Demon: 2
+Dryad wood+Dragon bone		Shielding: 3	Demon: 3
+
+Ancient wood+Wood			Shielding: 4
+Ancient wood+Elven wood		Shielding: 5	Elf: 1
+Ancient wood+Dark wood		Shielding: 5	Goblin: 1
+Ancient wood+Dryad wood		Shielding: 6
+Ancient wood+Ancient wood	Shielding: 7
+Ancient wood+Sandstone		Shielding: 5	Beast: 1
+Ancient wood+Clay			Shielding: 6	Beast: 1
+Ancient wood+Quartz		Shielding: 6
+Ancient wood+Granite		Shielding: 7
+Ancient wood+Obsidian		Shielding: 6	Goblin: 3
+Ancient wood+Moonstone		Shielding: 7	Human: 2
+Ancient wood+Straw		Shielding: 4
+Ancient wood+Cane			Shielding: 6
+Ancient wood+Wicker		Shielding: 5
+Ancient wood+Nimblewood		Shielding: 7
+Ancient wood+Bone			Shielding: 4
+Ancient wood+Monster bone	Shielding: 4	Beast: 5
+Ancient wood+Enchanted bone	Shielding: 4	Demon: 2
+Ancient wood+Dragon bone	Shielding: 4	Demon: 3
+			
+Sandstone+Wood			Shielding: 2	Beast: 1
+Sandstone+Elven wood		Shielding: 3	Beast: 1	Elf: 1
+Sandstone+Dark wood		Shielding: 3	Beast: 1	Goblin: 1
+Sandstone+Dryad wood		Shielding: 3	Beast: 1
+Sandstone+Ancient wood		Shielding: 5	Beast: 1
+Sandstone+Sandstone		Shielding: 3	Beast: 2
+Sandstone+Clay			Shielding: 3	Beast: 2
+Sandstone+Quartz			Shielding: 3	Beast: 1
+Sandstone+Granite			Shielding: 4	Beast: 1
+Sandstone+Obsidian		Shielding: 3	Beast: 1	Goblin: 3
+Sandstone+Moonstone		Shielding: 5	Beast: 1	Human: 2
+Sandstone+Straw			Shielding: 2	Beast: 1
+Sandstone+Cane			Shielding: 3	Beast: 1
+Sandstone+Wicker			Shielding: 3	Beast: 1
+Sandstone+Nimblewood		Shielding: 5	Beast: 1
+Sandstone+Bone			Shielding: 2	Beast: 1
+Sandstone+Monster bone		Shielding: 2	Beast: 6
+Sandstone+Enchanted bone	Shielding: 2	Beast: 1	Demon: 2
+Sandstone+Dragon bone		Shielding: 2	Beast: 1	Demon: 3
+
+Clay+Wood				Shielding: 3	Beast: 1
+Clay+Elven wood			Shielding: 3	Beast: 1	Elf: 1
+Clay+Dark wood			Shielding: 3	Beast: 1	Goblin: 1
+Clay+Dryad wood			Shielding: 4	Beast: 1
+Clay+Ancient wood			Shielding: 6	Beast: 1
+Clay+Sandstone			Shielding: 3	Beast: 2
+Clay+Clay				Shielding: 4	Beast: 2
+Clay+Quartz				Shielding: 4	Beast: 1
+Clay+Granite				Shielding: 5	Beast: 1
+Clay+Obsidian			Shielding: 4	Beast: 1	Goblin: 3
+Clay+Moonstone			Shielding: 6	Beast: 1	Human: 2
+Clay+Straw				Shielding: 3	Beast: 1
+Clay+Cane				Shielding: 4	Beast: 1
+Clay+Wicker				Shielding: 4	Beast: 1
+Clay+Nimblewood			Shielding: 5	Beast: 1
+Clay+Bone				Shielding: 3	Beast: 1
+Clay+Monster bone			Shielding: 3	Beast: 6
+Clay+Enchanted bone		Shielding: 3	Beast: 1	Demon: 2
+Clay+Dragon bone			Shielding: 3	Beast: 1	Demon: 3
+
+Quartz+Wood			Shielding: 3
+Quartz+Elven wood			Shielding: 3	Elf: 1
+Quartz+Dark wood			Shielding: 3	Goblin: 1
+Quartz+Dryad wood			Shielding: 4
+Quartz+Ancient wood		Shielding: 6
+Quartz+Sandstone			Shielding: 3	Beast: 1
+Quartz+Clay				Shielding: 4	Beast: 1
+Quartz+Quartz			Shielding: 4
+Quartz+Granite			Shielding: 5
+Quartz+Obsidian			Shielding: 4	Goblin: 3
+Quartz+Moonstone			Shielding: 6	Human: 2
+Quartz+Straw			Shielding: 3
+Quartz+Cane				Shielding: 4
+Quartz+Wicker			Shielding: 4
+Quartz+Nimblewood			Shielding: 6
+Quartz+Bone				Shielding: 3
+Quartz+Monster bone		Shielding: 3	Beast: 5
+Quartz+Enchanted bone		Shielding: 3	Demon: 2
+Quartz+Dragon bone		Shielding: 3	Demon: 3
+		
+Granite+Wood			Shielding: 3
+Granite+Elven wood			Shielding: 4	Elf: 1
+Granite+Dark wood			Shielding: 4	Goblin: 1
+Granite+Dryad wood		Shielding: 5
+Granite+Ancient wood		Shielding: 7
+Granite+Sandstone			Shielding: 4	Beast: 1
+Granite+Clay				Shielding: 5 	Beast: 1
+Granite+Quartz			Shielding: 5
+Granite+Granite			Shielding: 6
+Granite+Obsidian			Shielding: 5	Goblin: 3
+Granite+Moonstone			Shielding: 7	Human: 2
+Granite+Straw			Shielding: 3
+Granite+Cane			Shielding: 5
+Granite+Wicker			Shielding: 4
+Granite+Nimblewood		Shielding: 6
+Granite+Bone			Shielding: 3
+Granite+Monster bone		Shielding: 3	Beast: 5
+Granite+Enchanted bone		Shielding: 3	Demon: 2
+Granite+Dragon bone		Shielding: 3	Demon: 3
+			
+Obsidian+Wood			Shielding: 3	Goblin: 3
+Obsidian+Elven wood		Shielding: 3	Goblin: 3	Elf: 1
+Obsidian+Dark wood		Shielding: 3	Goblin: 4
+Obsidian+Dryad wood		Shielding: 4	Goblin: 3
+Obsidian+Ancient wood		Shielding: 6	Goblin: 3
+Obsidian+Sandstone		Shielding: 3	Goblin: 3	Beast: 1
+Obsidian+Clay			Shielding: 4	Goblin: 3	Beast: 1	
+Obsidian+Quartz			Shielding: 4	Goblin: 3
+Obsidian+Granite			Shielding: 5	Goblin: 3
+Obsidian+Obsidian			Shielding: 4	Goblin: 6
+Obsidian+Moonstone		Shielding: 6	Goblin: 3	Human: 2
+Obsidian+Straw			Shielding: 3	Goblin: 3
+Obsidian+Cane			Shielding: 4	Goblin: 3
+Obsidian+Wicker			Shielding: 4	Goblin: 3
+Obsidian+Nimblewood		Shielding: 6	Goblin: 3
+Obsidian+Bone			Shielding: 3	Goblin: 3
+Obsidian+Monster bone		Shielding: 3	Goblin: 3	Beast: 5
+Obsidian+Enchanted bone		Shielding: 3	Goblin: 3	Demon: 2
+Obsidian+Dragon bone		Shielding: 3	Goblin: 3	Demon: 3
+			
+Moonstone+Wood			Shielding: 4	Human: 2			
+Moonstone+Elven wood		Shielding: 5	Human: 2	Elf: 1
+Moonstone+Dark wood		Shielding: 5	Human: 2	Goblin: 1
+Moonstone+Dryad wood		Shielding: 6	Human: 2
+Moonstone+Ancient wood		Shielding: 7	Human: 2
+Moonstone+Sandstone		Shielding: 5	Human: 2	Beast: 1
+Moonstone+Clay			Shielding: 6	Human: 2	Beast: 1
+Moonstone+Quartz			Shielding: 6	Human: 2
+Moonstone+Granite			Shielding: 7	Human: 2
+Moonstone+Obsidian		Shielding: 6	Human: 2	Goblin: 3
+Moonstone+Moonstone		Shielding: 7	Human: 5
+Moonstone+Straw			Shielding: 4	Human: 2
+Moonstone+Cane			Shielding: 6	Human: 2
+Moonstone+Wicker			Shielding: 5	Human: 2
+Moonstone+Nimblewood		Shielding: 7	Human: 2
+Moonstone+Bone			Shielding: 4	Human: 2
+Moonstone+Monster bone		Shielding: 4	Human: 2	Beast: 5
+Moonstone+Enchanted bone	Shielding: 4	Human: 2	Demon: 2
+Moonstone+Dragon bone		Shielding: 4	Human: 2	Demon: 3

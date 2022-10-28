@@ -1,0 +1,120 @@
+Wood+Grain				Children: 2	Human: 3
+Wood+Nuts				Children: 2	Human: 1
+Wood+Vegetable			Children: 2	Human: 2
+Wood+Fruit				Children: 2	Human: 2
+Wood+Exotic fruit			Children: 2	Human: 2
+Wood+Mushroom			Children: 2	Human: 2
+Wood+Straw				Children: 2
+Wood+Cane				Children: 4
+Wood+Wicker			Children: 3
+Wood+Nimblewood			Children: 6
+
+Elven wood+Grain			Children: 3	Human: 3
+Elven wood+Nuts			Children: 3	Human: 1
+Elven wood+Vegetable		Children: 3	Human: 2
+Elven wood+Fruit			Children: 3	Human: 2
+Elven wood+Exotic fruit		Children: 3	Human: 2
+Elven wood+Mushroom		Children: 3	Human: 2
+Elven wood+Straw			Children: 3
+Elven wood+Cane			Children: 5
+Elven wood+Wicker			Children: 4
+Elven wood+Nimblewood		Children: 7
+
+Dark wood+Grain			Children: 3	Human: 3
+Dark wood+Nuts			Children: 3	Human: 1
+Dark wood+Vegetable		Children: 3	Human: 2
+Dark wood+Fruit			Children: 3	Human: 2
+Dark wood+Exotic fruit		Children: 3	Human: 2
+Dark wood+Mushroom		Children: 3	Human: 2
+Dark wood+Straw			Children: 3
+Dark wood+Cane			Children: 5
+Dark wood+Wicker			Children: 4
+Dark wood+Nimblewood		Children: 7
+
+Dryad wood+Grain			Children: 4	Human: 3
+Dryad wood+Nuts			Children: 4	Human: 1
+Dryad wood+Vegetable		Children: 4	Human: 2
+Dryad wood+Fruit			Children: 4	Human: 2
+Dryad wood+Exotic fruit		Children: 4	Human: 2
+Dryad wood+Mushroom		Children: 4	Human: 2
+Dryad wood+Straw			Children: 4
+Dryad wood+Cane			Children: 6
+Dryad wood+Wicker			Children: 5
+Dryad wood+Nimblewood		Children: 8
+
+Ancient wood+Grain			Children: 6	Human: 3
+Ancient wood+Nuts			Children: 6	Human: 1
+Ancient wood+Vegetable		Children: 6	Human: 2
+Ancient wood+Fruit			Children: 6	Human: 2
+Ancient wood+Exotic fruit		Children: 6	Human: 2
+Ancient wood+Mushroom		Children: 6	Human: 2
+Ancient wood+Straw		Children: 6
+Ancient wood+Cane			Children: 8
+Ancient wood+Wicker		Children: 7
+Ancient wood+Nimblewood		Children: 10
+			
+Sandstone+Grain			Children: 3	Human: 3
+Sandstone+Nuts			Children: 3	Human: 1
+Sandstone+Vegetable		Children: 3	Human: 2
+Sandstone+Fruit			Children: 3	Human: 2
+Sandstone+Exotic fruit		Children: 3	Human: 2
+Sandstone+Mushroom		Children: 3	Human: 2
+Sandstone+Straw			Children: 3
+Sandstone+Cane			Children: 5
+Sandstone+Wicker			Children: 4
+Sandstone+Nimblewood		Children: 7
+
+Clay+Grain				Children: 4	Human: 3
+Clay+Nuts				Children: 4	Human: 1
+Clay+Vegetable			Children: 4	Human: 2
+Clay+Fruit				Children: 4	Human: 2
+Clay+Exotic fruit			Children: 4	Human: 2
+Clay+Mushroom			Children: 4	Human: 2
+Clay+Straw				Children: 4
+Clay+Cane				Children: 6
+Clay+Wicker				Children: 5
+Clay+Nimblewood			Children: 8
+
+Quartz+Grain			Children: 4	Human: 3
+Quartz+Nuts				Children: 4	Human: 1
+Quartz+Vegetable			Children: 4	Human: 2
+Quartz+Fruit				Children: 4	Human: 2
+Quartz+Exotic fruit			Children: 4	Human: 2
+Quartz+Mushroom			Children: 4	Human: 2
+Quartz+Straw			Children: 4
+Quartz+Cane				Children: 6
+Quartz+Wicker			Children: 5
+Quartz+Nimblewood			Children: 8
+
+Granite+Grain			Children: 5	Human: 3
+Granite+Nuts				Children: 5	Human: 1
+Granite+Vegetable			Children: 5	Human: 2
+Granite+Fruit				Children: 5	Human: 2
+Granite+Exotic fruit			Children: 5	Human: 2
+Granite+Mushroom			Children: 5	Human: 2
+Granite+Straw			Children: 5
+Granite+Cane			Children: 7
+Granite+Wicker			Children: 6
+Granite+Nimblewood		Children: 9
+
+Obsidian+Grain			Children: 4	Goblin: 2	Human: 3
+Obsidian+Nuts			Children: 4	Goblin: 2	Human: 1
+Obsidian+Vegetable			Children: 4	Goblin: 2	Human: 2
+Obsidian+Fruit			Children: 4	Goblin: 2	Human: 2
+Obsidian+Exotic fruit		Children: 4	Goblin: 2	Human: 2
+Obsidian+Mushroom			Children: 4	Goblin: 2	Human: 2
+Obsidian+Straw			Children: 4	Goblin: 2
+Obsidian+Cane			Children: 6	Goblin: 2
+Obsidian+Wicker			Children: 5	Goblin: 2
+Obsidian+Nimblewood		Children: 8	Goblin: 2
+
+Moonstone+Grain			Children: 6	Human: 4
+Moonstone+Nuts			Children: 6	Human: 2
+Moonstone+Vegetable		Children: 6	Human: 4
+Moonstone+Fruit			Children: 6	Human: 4
+Moonstone+Exotic fruit		Children: 6	Human: 4
+Moonstone+Mushroom		Children: 6	Human: 4
+Moonstone+Straw			Children: 6	Human: 2
+Moonstone+Cane			Children: 8	Human: 2
+Moonstone+Wicker			Children: 7	Human: 2
+Moonstone+Nimblewood		Children: 10	Human: 2

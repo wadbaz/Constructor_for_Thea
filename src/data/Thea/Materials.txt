@@ -1,0 +1,58 @@
+Wood
+Elven wood
+Dark wood
+Dryad wood
+Ancient wood
+
+Iron
+Gold
+Steel
+Silver
+Mithrill
+
+Sandstone
+Clay
+Quartz
+Granite
+Obsidian
+Moonstone
+
+Amber
+Malachite
+Topaz
+Ruby
+Diamond
+
+Leather
+Fur leather
+Scaled leather
+Dragon leather
+
+Bone
+Monster bone
+Enchanted bone
+Dragon bone
+
+Straw
+Cane
+Wicker
+Nimblewood
+
+String
+Vine
+Spidersilk
+
+Coal
+
+Meat
+Bird meat
+Fish
+Grain
+Nuts
+Vegetable
+Fruit
+Exotic fruit
+Mushroom
+Seaweed
+
+Herbs

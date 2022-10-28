@@ -1,0 +1,76 @@
+Wood+Grain				Food: 1	Human: 3
+Wood+Nuts				Food: 1	Human: 1
+Wood+Vegetable			Food: 1	Human: 2
+Wood+Fruit				Food: 1	Human: 2
+Wood+Exotic fruit			Food: 1	Human: 2
+Wood+Mushroom			Food: 1	Human: 2
+
+Elven wood+Grain			Food: 1	Human: 3
+Elven wood+Nuts			Food: 1	Human: 1
+Elven wood+Vegetable		Food: 1	Human: 2
+Elven wood+Fruit			Food: 1	Human: 2
+Elven wood+Exotic fruit		Food: 1	Human: 2
+Elven wood+Mushroom		Food: 1	Human: 2
+
+Dark wood+Grain			Food: 1	Human: 3
+Dark wood+Nuts			Food: 1	Human: 1
+Dark wood+Vegetable		Food: 1	Human: 2
+Dark wood+Fruit			Food: 1	Human: 2
+Dark wood+Exotic fruit		Food: 1	Human: 2
+Dark wood+Mushroom		Food: 1	Human: 2
+
+Dryad wood+Grain			Food: 2	Human: 3
+Dryad wood+Nuts			Food: 2	Human: 1
+Dryad wood+Vegetable		Food: 2	Human: 2
+Dryad wood+Fruit			Food: 2	Human: 2
+Dryad wood+Exotic fruit		Food: 2	Human: 2
+Dryad wood+Mushroom		Food: 2	Human: 2
+
+Ancient wood+Grain			Food: 3	Human: 3
+Ancient wood+Nuts			Food: 3	Human: 1
+Ancient wood+Vegetable		Food: 3	Human: 2
+Ancient wood+Fruit			Food: 3	Human: 2
+Ancient wood+Exotic fruit		Food: 3	Human: 2
+Ancient wood+Mushroom		Food: 3	Human: 2
+			
+Sandstone+Grain			Food: 1 	Human: 3
+Sandstone+Nuts			Food: 1 	Human: 1
+Sandstone+Vegetable		Food: 1	Human: 2
+Sandstone+Fruit			Food: 1	Human: 2
+Sandstone+Exotic fruit		Food: 1 	Human: 2
+Sandstone+Mushroom		Food: 1	Human: 2
+
+Clay+Grain				Food: 2	Human: 3
+Clay+Nuts				Food: 2	Human: 1
+Clay+Vegetable			Food: 2 	Human: 2
+Clay+Fruit				Food: 2	Human: 2
+Clay+Exotic fruit			Food: 2	Human: 2
+Clay+Mushroom			Food: 2 	Human: 2
+
+Quartz+Grain			Food: 2	Human: 3
+Quartz+Nuts				Food: 2	Human: 1
+Quartz+Vegetable			Food: 2	Human: 2
+Quartz+Fruit				Food: 2	Human: 2
+Quartz+Exotic fruit			Food: 2	Human: 2
+Quartz+Mushroom			Food: 2	Human: 2
+
+Granite+Grain			Food: 3	Human: 3
+Granite+Nuts				Food: 3	Human: 1
+Granite+Vegetable			Food: 3	Human: 2
+Granite+Fruit				Food: 3	Human: 2
+Granite+Exotic fruit			Food: 3	Human: 2
+Granite+Mushroom			Food: 3	Human: 2
+
+Obsidian+Grain			Food: 2	Goblin: 2	Human: 3
+Obsidian+Nuts			Food: 2	Goblin: 2	Human: 1
+Obsidian+Vegetable			Food: 2	Goblin: 2	Human: 2
+Obsidian+Fruit			Food: 2	Goblin: 2	Human: 2
+Obsidian+Exotic fruit		Food: 2	Goblin: 2	Human: 2
+Obsidian+Mushroom			Food: 2	Goblin: 2	Human: 2
+
+Moonstone+Grain			Food: 3	Human: 4
+Moonstone+Nuts			Food: 3	Human: 2
+Moonstone+Vegetable		Food: 3	Human: 4
+Moonstone+Fruit			Food: 3	Human: 4
+Moonstone+Exotic fruit		Food: 3	Human: 4
+Moonstone+Mushroom		Food: 3	Human: 4

@@ -1,0 +1,79 @@
+Dryad wood+Dryad wood		Radius: 1
+Dryad wood+Silver			Radius: 1
+Dryad wood+Mithrill			Radius: 2
+Dryad wood+Granite		Radius: 1
+Dryad wood+Amber			Radius: 1
+Dryad wood+Malachite		Radius: 1
+Dryad wood+Topaz			Radius: 1
+Dryad wood+Ruby			Radius: 2
+Dryad wood+Diamond		Radius: 2
+
+Straw+Dryad wood			Radius: 1
+Straw+Silver				Radius: 1
+Straw+Mithrill			Radius: 2
+Straw+Granite			Radius: 1
+Straw+Amber			Radius: 1
+Straw+Malachite			Radius: 1
+Straw+Topaz				Radius: 1
+Straw+Ruby				Radius: 2
+Straw+Diamond			Radius: 2
+
+Cane+Dryad wood			Radius: 1
+Cane+Silver				Radius: 1
+Cane+Mithrill				Radius: 2
+Cane+Granite			Radius: 1
+Cane+Amber				Radius: 1
+Cane+Malachite			Radius: 1
+Cane+Topaz				Radius: 1
+Cane+Ruby				Radius: 2
+Cane+Diamond			Radius: 2
+
+Wicker+Dryad wood			Radius: 1
+Wicker+Silver			Radius: 1
+Wicker+Mithrill			Radius: 2
+Wicker+Granite			Radius: 1
+Wicker+Amber			Radius: 1
+Wicker+Malachite			Radius: 1
+Wicker+Topaz			Radius: 1
+Wicker+Ruby				Radius: 2
+Wicker+Diamond			Radius: 2
+
+Nimblewood+Dryad wood		Radius: 2
+Nimblewood+Silver			Radius: 2
+Nimblewood+Mithrill			Radius: 2
+Nimblewood+Granite		Radius: 2
+Nimblewood+Amber			Radius: 2
+Nimblewood+Malachite		Radius: 2
+Nimblewood+Topaz			Radius: 2
+Nimblewood+Ruby			Radius: 2
+Nimblewood+Diamond		Radius: 2
+
+String+Dryad wood			Radius: 1
+String+Silver				Radius: 1
+String+Mithrill			Radius: 2
+String+Granite			Radius: 1
+String+Amber			Radius: 1
+String+Malachite			Radius: 1
+String+Topaz				Radius: 1
+String+Ruby				Radius: 2
+String+Diamond			Radius: 2
+
+Vine+Dryad wood			Radius: 1
+Vine+Silver				Radius: 1
+Vine+Mithrill				Radius: 2
+Vine+Granite				Radius: 1
+Vine+Amber				Radius: 1
+Vine+Malachite			Radius: 1
+Vine+Topaz				Radius: 1
+Vine+Ruby				Radius: 2
+Vine+Diamond			Radius: 2
+			
+Spidersilk+Dryad wood		Radius: 1
+Spidersilk+Silver			Radius: 1
+Spidersilk+Mithrill			Radius: 2
+Spidersilk+Granite			Radius: 1
+Spidersilk+Amber			Radius: 1
+Spidersilk+Malachite		Radius: 1
+Spidersilk+Topaz			Radius: 1
+Spidersilk+Ruby			Radius: 2
+Spidersilk+Diamond			Radius: 2

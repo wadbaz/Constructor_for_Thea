@@ -1,0 +1,125 @@
+Wood+Wood				Ranged: 1
+Wood+Elven wood			Ranged: 2	Elf: 1
+Wood+Dark wood			Ranged: 2	Goblin: 1
+Wood+Dryad wood			Ranged: 3
+Wood+Ancient wood			Ranged: 4
+Wood+Straw				Ranged: 1
+Wood+Cane				Ranged: 3
+Wood+Wicker			Ranged: 2
+Wood+Nimblewood			Ranged: 4
+Wood+Bone				Ranged: 1
+Wood+Monster bone		Ranged: 1	Beast: 5
+Wood+Enchanted bone		Ranged: 1	Demon: 2
+Wood+Dragon bone			Ranged: 1	Demon: 3
+
+Elven wood+Wood			Ranged: 2	Elf: 1
+Elven wood+Elven wood		Ranged: 3	Elf: 2
+Elven wood+Dark wood		Ranged: 3	Elf: 1	Goblin: 1
+Elven wood+Dryad wood		Ranged: 3	Elf: 1
+Elven wood+Ancient wood		Ranged: 5	Elf: 1
+Elven wood+Straw			Ranged: 2	Elf: 1
+Elven wood+Cane			Ranged: 3	Elf: 1
+Elven wood+Wicker			Ranged: 3	Elf: 1
+Elven wood+Nimblewood		Ranged: 5	Elf: 1
+Elven wood+Bone			Ranged: 2	Elf: 1
+Elven wood+Monster bone		Ranged: 2	Elf: 1	Beast: 5
+Elven wood+Enchanted bone	Ranged: 2	Elf: 1	Demon: 2
+Elven wood+Dragon bone		Ranged: 2	Elf: 1	Demon: 3
+
+Dark wood+Wood			Ranged: 2	Goblin: 1
+Dark wood+Elven wood		Ranged: 3	Goblin: 1	Elf: 1
+Dark wood+Dark wood		Ranged: 3	Goblin: 2
+Dark wood+Dryad wood		Ranged: 3	Goblin: 1
+Dark wood+Ancient wood		Ranged: 5	Goblin: 1
+Dark wood+Straw			Ranged: 2	Goblin: 1
+Dark wood+Cane			Ranged: 3	Goblin: 1
+Dark wood+Wicker			Ranged: 3	Goblin: 1
+Dark wood+Nimblewood		Ranged: 5	Goblin: 1
+Dark wood+Bone			Ranged: 2	Goblin: 1
+Dark wood+Monster bone		Ranged: 2	Goblin: 1	Beast: 5
+Dark wood+Enchanted bone	Ranged: 2	Goblin: 1	Demon: 2
+Dark wood+Dragon bone		Ranged: 2	Goblin: 1	Demon: 3
+
+Dryad wood+Wood			Ranged: 3
+Dryad wood+Elven wood		Ranged: 3	Elf: 1
+Dryad wood+Dark wood		Ranged: 3	Goblin: 1
+Dryad wood+Dryad wood		Ranged: 4
+Dryad wood+Ancient wood		Ranged: 6
+Dryad wood+Straw			Ranged: 3
+Dryad wood+Cane			Ranged: 4
+Dryad wood+Wicker			Ranged: 4
+Dryad wood+Nimblewood		Ranged: 6
+Dryad wood+Bone			Ranged: 3
+Dryad wood+Monster bone		Ranged: 3	Beast: 5
+Dryad wood+Enchanted bone	Ranged: 3	Demon: 2
+Dryad wood+Dragon bone		Ranged: 3	Demon: 3
+
+Ancient wood+Wood			Ranged: 4
+Ancient wood+Elven wood		Ranged: 5	Elf: 1
+Ancient wood+Dark wood		Ranged: 5	Goblin: 1
+Ancient wood+Dryad wood		Ranged: 6
+Ancient wood+Ancient wood	Ranged: 7
+Ancient wood+Straw		Ranged: 4
+Ancient wood+Cane			Ranged: 6
+Ancient wood+Wicker		Ranged: 5
+Ancient wood+Nimblewood		Ranged: 7
+Ancient wood+Bone			Ranged: 4
+Ancient wood+Monster bone	Ranged: 4	Beast: 5
+Ancient wood+Enchanted bone	Ranged: 4	Demon: 2
+Ancient wood+Dragon bone	Ranged: 4	Demon: 3
+
+Bone+Wood				Ranged: 1
+Bone+Elven wood			Ranged: 2	Elf: 1
+Bone+Dark wood			Ranged: 2	Goblin: 1
+Bone+Dryad wood			Ranged: 3
+Bone+Ancient wood			Ranged: 4
+Bone+Straw				Ranged: 1
+Bone+Cane				Ranged: 3
+Bone+Wicker				Ranged: 2
+Bone+Nimblewood			Ranged: 4
+Bone+Bone				Ranged: 1
+Bone+Monster bone			Ranged: 1	Beast: 1
+Bone+Enchanted bone		Ranged: 1 	Demon: 2
+Bone+Dragon bone			Ranged: 1	Demon: 3
+
+Monster bone+Wood		Ranged: 1	Beast: 5
+Monster bone+Elven wood		Ranged: 2	Beast: 5	Elf: 1
+Monster bone+Dark wood		Ranged: 2	Beast: 5	Goblin: 1
+Monster bone+Dryad woodv	Ranged: 3	Beast: 5
+Monster bone+Ancient wood	Ranged: 4	Beast: 5
+Monster bone+Straw		Ranged: 1	Beast: 5
+Monster bone+Cane			Ranged: 3	Beast: 5
+Monster bone+Wicker		Ranged: 2	Beast: 5
+Monster bone+Nimblewood		Ranged: 4	Beast: 5
+Monster bone+Bone			Ranged: 1	Beast: 5
+Monster bone+Monster bone	Ranged: 1	Beast: 10
+Monster bone+Enchanted bone	Ranged: 1	Beast: 5	Demon: 2
+Monster bone+Dragon bone	Ranged: 1	Beast: 5	Demon: 3
+
+Enchanted bone+Wood		Ranged: 1	Demon: 2
+Enchanted bone+Elven wood	Ranged: 2	Demon: 2	Elf: 1
+Enchanted bone+Dark wood	Ranged: 2	Demon: 2	Goblin: 1
+Enchanted bone+Dryad wood	Ranged: 3	Demon: 2
+Enchanted bone+Ancient wood	Ranged: 4	Demon: 2
+Enchanted bone+Straw		Ranged: 1	Demon: 2
+Enchanted bone+Cane		Ranged: 3	Demon: 2
+Enchanted bone+Wicker		Ranged: 2	Demon: 2
+Enchanted bone+Nimblewood	Ranged: 4	Demon: 2
+Enchanted bone+Bone		Ranged: 1	Demon: 2
+Enchanted bone+Monster bone	Ranged: 1	Demon: 2	Beast: 5
+Enchanted bone+Enchanted bone	Ranged: 1	Demon: 3
+Enchanted bone+Dragon bone	Ranged: 1	Demon: 5
+
+Dragon bone+Wood			Ranged: 1	Demon: 3
+Dragon bone+Elven wood		Ranged: 2	Demon: 3	Elf: 1
+Dragon bone+Dark wood		Ranged: 2	Demon: 3	Goblin: 1
+Dragon bone+Dryad wood		Ranged: 3	Demon: 3
+Dragon bone+Ancient wood	Ranged: 4	Demon: 3
+Dragon bone+Straw			Ranged: 1	Demon: 3
+Dragon bone+Cane			Ranged: 3	Demon: 3
+Dragon bone+Wicker		Ranged: 2	Demon: 3
+Dragon bone+Nimblewood		Ranged: 4	Demon: 3
+Dragon bone+Bone			Ranged: 1	Demon: 3
+Dragon bone+Monster bone	Ranged: 1	Demon: 3	Beast: 5
+Dragon bone+Enchanted bone	Ranged: 1	Demon: 5
+Dragon bone+Dragon bone		Ranged: 1	Demon: 6
